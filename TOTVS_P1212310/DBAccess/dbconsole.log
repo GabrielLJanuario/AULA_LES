@@ -1,0 +1,1806 @@
+[20240214 17:24:58.607][Thread 21612]
+***  DBACCESS  ***
+* DBAccess 4.2 Server - Build 20220303 - Apr 27 2023 17:44:50
+* Revision: 6153
+* Build Version: 22.1.1.4
+
+[20240214 17:24:58.609][Thread 21612][BEGINLOG]
+DBAccess 4.2 Server Started - Build 20220303-20230427 - STANDALONE
+MultiDB Version - Windows [RELEASE] [SMARTHEAP] [X86_64] - Version 22.1.1.4
+[ENDLOG]
+[20240214 17:24:58.907][Thread 21612]Main Application Thread .. [21612] PID [12764]
+[20240214 17:24:58.908][Thread 21612]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     7147.90 Mb.   Free     4792.83 Mb.
+Paging file .....    24228.73 Mb.   Used     8486.27 Mb.   Free    15742.46 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4202.16 Mb.   Free 134213525.71 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       14.21 Mb.
+Paged Memory ....       13.48 Mb.
+-------------------------------------------------------------------------------
+
+[20240214 17:24:58.911][Thread 21612]
+---------------- OS System Info -----------------------------------------------
+Windows 10 [Version 6.2.9200] 
+-------------------------------------------------------------------------------
+
+[20240214 17:24:58.911][Thread 21612]*** STARTING DBACCESS LOCK ENGINE WITH DEADLOCK CHECK DISABLED ***
+[20240214 17:24:58.912][Thread 21612][20240214 17:24:58.912][Thread 21612]SSL: Not using secure connections
+[20240214 17:24:58.914][Thread 23228][tMonitorJob] Start DBMonitor Active Thread.
+[20240214 17:24:58.915][Thread 21612][DBLICENSE] CPU Vendor [GenuineIntel]
+[20240214 17:24:58.915][Thread 21612][DBLICENSE] CPU String [Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz]
+[20240214 17:24:58.916][Thread 21612][DBLICENSE] 8 CPU(s) Logical Count.
+[20240214 17:24:58.918][Thread 21612][DBLICENSE] Intel CPU Detected.
+[20240214 17:24:58.918][Thread 21612][DBLICENSE] CPU Model [DETERMINED] Flags [01000]
+[20240214 17:24:58.919][Thread 21612][DBLICENSE] Hyper-Threading is supported.
+[20240214 17:24:58.920][Thread 21612][DBLICENSE] 4 Processor/Core Count.
+[20240214 17:24:58.921][Thread 21612][DBLICENSE] 4 Licenses required by CPUCount.
+[20240214 17:24:58.922][Thread 21612][DBLICENSE] [WARNING] Empty LicenseServer Configuration (Server []/ Port [0])
+
+[20240214 17:24:58.922][Thread 21612][DBLICENSE] DBAccess has NO LICENSE SERVER Configuration.
+[20240214 17:24:58.923][Thread 21612][DBLICENSE] Current License Mode [TOP_NO_LICENSE]
+[20240214 17:24:58.924][Thread 21612][DBACCESS] Starting DBAccess TCP Network Interface.
+[20240214 17:24:58.926][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:24:59.930][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:00.936][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:01.942][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:02.956][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:03.972][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:04.988][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:05.991][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:07.004][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:08.015][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:09.030][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:10.043][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:11.060][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:12.062][Thread 21612][ERROR] [tSockServer::ConnectToPort] Trying connect to port 7890 - bind error #10048
+[20240214 17:25:13.068][Thread 16936]
+
+
+Please type Ctrl-C or Ctrl-Break to terminate!
+
+
+[20240214 17:25:37.587][Thread 15336]
+***  DBACCESS  ***
+* DBAccess 4.2 Server - Build 20220303 - Apr 27 2023 17:44:50
+* Revision: 6153
+* Build Version: 22.1.1.4
+
+[20240214 17:25:37.589][Thread 15336][BEGINLOG]
+DBAccess 4.2 Server Started - Build 20220303-20230427 - STANDALONE
+MultiDB Version - Windows [RELEASE] [SMARTHEAP] [X86_64] - Version 22.1.1.4
+[ENDLOG]
+[20240214 17:25:37.873][Thread 15336]Main Application Thread .. [15336] PID [22044]
+[20240214 17:25:37.874][Thread 15336]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     6939.38 Mb.   Free     5001.35 Mb.
+Paging file .....    24228.73 Mb.   Used     8014.78 Mb.   Free    16213.95 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4206.07 Mb.   Free 134213521.80 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       14.20 Mb.
+Paged Memory ....       13.47 Mb.
+-------------------------------------------------------------------------------
+
+[20240214 17:25:37.876][Thread 15336]
+---------------- OS System Info -----------------------------------------------
+Windows 10 [Version 6.2.9200] 
+-------------------------------------------------------------------------------
+
+[20240214 17:25:37.877][Thread 15336]*** STARTING DBACCESS LOCK ENGINE WITH DEADLOCK CHECK DISABLED ***
+[20240214 17:25:37.878][Thread 15336][20240214 17:25:37.878][Thread 15336]SSL: Not using secure connections
+[20240214 17:25:37.880][Thread 18260][tMonitorJob] Start DBMonitor Active Thread.
+[20240214 17:25:37.880][Thread 15336][DBLICENSE] CPU Vendor [GenuineIntel]
+[20240214 17:25:37.881][Thread 15336][DBLICENSE] CPU String [Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz]
+[20240214 17:25:37.882][Thread 15336][DBLICENSE] 8 CPU(s) Logical Count.
+[20240214 17:25:37.882][Thread 15336][DBLICENSE] Intel CPU Detected.
+[20240214 17:25:37.884][Thread 15336][DBLICENSE] CPU Model [DETERMINED] Flags [01000]
+[20240214 17:25:37.885][Thread 15336][DBLICENSE] Hyper-Threading is supported.
+[20240214 17:25:37.886][Thread 15336][DBLICENSE] 4 Processor/Core Count.
+[20240214 17:25:37.886][Thread 15336][DBLICENSE] 4 Licenses required by CPUCount.
+[20240214 17:25:37.887][Thread 15336][DBLICENSE] [WARNING] Empty LicenseServer Configuration (Server []/ Port [0])
+
+[20240214 17:25:37.888][Thread 15336][DBLICENSE] DBAccess has NO LICENSE SERVER Configuration.
+[20240214 17:25:37.893][Thread 15336][DBLICENSE] Current License Mode [TOP_NO_LICENSE]
+[20240214 17:25:37.894][Thread 15336][DBACCESS] Starting DBAccess TCP Network Interface.
+[20240214 17:25:37.896][Thread 15336][INFO] [tTOPSockServer::Start] Listening port 7890 (default)
+[20240214 17:25:49.437][Thread 18688][tMonitor] Begin DBMonitor Thread (18688,127.0.0.1,WinNT (x64))
+[20240214 17:26:33.832][Thread 18212][tMonitor] Begin DBMonitor Thread (18212,127.0.0.1,WinNT (x64))
+[20240214 17:26:33.833][Thread 18212][tMonitor] End DBMonitor Thread (18212)
+[20240214 17:26:33.839][Thread 21056][tSockDBServer] Begin TopClient Thread (21056,127.0.0.1:,MSSQL/TOTVS_P1212310,DBMonitor,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20220401)
+[20240214 17:26:33.841][Thread 21056][INFO] Connection [MSSQL/TOTVS_P1212310] using client library [odbc32.dll] (ODBC10)
+[20240214 17:26:33.955][Thread 21056][tDBServer::ConnectToDB] 
+--------------- Initial Connection Check-Up ---------------
+Database......: MSSQL
+Environment...: TOTVS_P1212310
+TableSpace....: 
+IndexSpace....: 
+Memo Type.....: VARBINARY(MAX)
+Clob Type.....: VARCHAR(MAX)
+Primary Key ..: CLUSTERED
+Compression ..: NONE
+DB Collation..: LATIN1_GENERAL_BIN
+DB Version....: 
+	Microsoft SQL Server 2019 (RTM-GDR) (KB5029377) - 15.0.2104.1 (X64) 
+	Aug 16 2023 00:09:21 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Education 10.0 <X64> (Build 19045: )
+SQL ServerName: MACEDO-8PL9YQ2\MAICOSOFT
+SQL Collation.: Latin1_General_BIN
+SQL Edition...: Developer Edition (64-bit)
+SQL Version...: 15.0.2104.1
+SQL P.Level...: RTM
+MARS .........: ENABLED
+DBMS Isolation: Read Uncommitted
+Schema as User: NO
+Lock timeout..: 0
+-----------------------------------------------------------
+
+--------------- ODBC Connection Check-Up ------------------
+ODBC Mapped Functions .....: 1.0
+ODBC DBMS Name.............: Microsoft SQL Server
+ODBC DBMS Version..........: 15.00.2104
+ODBC DBMS Database Name....: TP2310
+ODBC Data Source Name......: TOTVS_P1212310
+ODBC Server Name...........: MACEDO-8PL9YQ2\MAICOSOFT
+ODBC Driver Name...........: sqlncli11.dll
+ODBC Driver Version .......: 11.00.7001
+ODBC Support ODBC Version..: 03.80
+ODBC Connection Pooling ...: DISABLED
+ODBC Connection Mode ......: DSN
+-----------------------------------------------------------
+
+------------- Generic Connection Check-Up -----------------
+Prepared Stmt Cache .......: ENABLED
+Index Trace ...............: DISABLED
+ISAM Compatibility Mode ...: ENABLED
+Row Stamp Column ..........: DISABLED
+Automatic Stamp Adjust ....: DISABLED
+Row InsDt Column ..........: DISABLED
+Automatic InsDt Adjust ....: DISABLED
+View Implementation Type ..: 0
+Connection Access Mode ....: FULL (DEFAULT)
+Accept Outdated DBAPI .....: NO
+ThreadMin .................: 10
+ThreadInc .................: 5
+ThreadMax .................: 0
+Table Access Mode .........: READWRITE (DEFAULT)
+Set Isolation Level .......: Read UNCOMMITTED
+ISAM DefaultRowCount ......: 40
+ISAM FilteredRowCount .....: 250
+DB Unified Connection .....: DISABLED (LEGACY)
+Record Sequence Owner .....: DBACCESS (DEFAULT)
+Delete Operations .........: Using D_E_L_E_T_ (DEFAULT)
+Use Bind Operations .......: YES
+Seek with Bind Operations .: YES
+LOG Warning Messages ......: NO
+DB Warning Messages .......: NO
+Trim Right Spaces  ........: NO
+String Fields Unicode .....: NO (DEFAULT)
+Fields Accept Null ........: NO (DEFAULT)
+Use Large RECNO ...........: YES (DEFAULT)
+Use Lock in DB ............: NO
+DB LockTimeOut ............: UNLIMITED
+DEADLOCK EXIT .............: NO (DEFAULT)
+Operation Time Limit ......: 0.000 s.
+Trace Temporary Tables ....: NO (DEFAULT)
+MEMO Fields in Query ......: NO
+All Errors Diagnostic .....: NO (DEFAULT)
+String Field Type .........: VARCHAR
+Character Field Type ......: VARCHAR
+Maximum Record Lock Timer .: 0
+Use Large RECNO field .....: YES (DEFAULT)
+Inactive DBConn Release ...: DISABLED
+DB Connection Serialized...: NO
+Has Minimal Grants ........: YES
+Using Recommended Collation: YES
+-----------------------------------------------------------
+
+[20240214 17:26:33.968][Thread 21056][tSockDBServer] End TopClient Thread (21056) (IOs 9 / RCV 1.25 Kb. / SND 1.06 Kb. ) 
+[20240214 17:26:40.545][Thread 18688][tMonitor] End DBMonitor Thread (18688)
+[20240214 17:27:37.211][Thread 22192][tMonitor] Begin DBMonitor Thread (22192,127.0.0.1,WinNT (x64))
+[20240214 17:27:37.214][Thread 22192][tMonitor] End DBMonitor Thread (22192)
+[20240214 17:27:37.217][Thread 11996][tSockDBServer] Begin TopClient Thread (11996,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:37.669][Thread 22596][tSockDBServer] Begin TopClient Thread (22596,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:37.685][Thread 22596][tSockDBServer] End TopClient Thread (22596) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 17:27:38.236][Thread 06980][tSockDBServer] Begin TopClient Thread (6980,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:38.252][Thread 24052][tSockDBServer] Begin TopClient Thread (24052,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:38.417][Thread 06980][tSockDBServer] End TopClient Thread (6980) (IOs 23 / RCV 1.34 Kb. / SND 1.13 Kb. ) 
+[20240214 17:27:38.434][Thread 19436][tSockDBServer] Begin TopClient Thread (19436,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:38.509][Thread 01660][tSockDBServer] Begin TopClient Thread (1660,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:38.527][Thread 01660][tSockDBServer] End TopClient Thread (1660) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 17:27:38.539][Thread 21260][tSockDBServer] Begin TopClient Thread (21260,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:38.832][Thread 01824][tSockDBServer] Begin TopClient Thread (1824,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:38.843][Thread 01824][tSockDBServer] End TopClient Thread (1824) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 17:27:38.849][Thread 17740][tSockDBServer] Begin TopClient Thread (17740,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:40.065][Thread 19436][tMSSQLConnection::GetFieldDefValue] Unknown field type M
+[20240214 17:27:40.588][Thread 19436][tSockDBServer] End TopClient Thread (19436) (IOs 1561 / RCV 31.71 Kb. / SND 108.21 Kb. ) 
+[20240214 17:27:40.590][Thread 17740][tSockDBServer] End TopClient Thread (17740) (IOs 77 / RCV 2.01 Kb. / SND 21.49 Kb. ) 
+[20240214 17:27:49.175][Thread 10712][tLockServerConn][STANDALONE] Begin LockConn Thread (10712,127.0.0.1) Location 8734 Type DBAPI
+[20240214 17:27:49.176][Thread 10712][tRecordLockServer][STANDALONE] Thread 10712 Create Notify node for location 8734
+[20240214 17:27:49.811][Thread 07864][tSockDBServer] Begin TopClient Thread (7864,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:49.822][Thread 07864][tSockDBServer] End TopClient Thread (7864) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240214 17:27:49.826][Thread 11960][tSockDBServer] Begin TopClient Thread (11960,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:54.834][Thread 19800][tSockDBServer] Begin TopClient Thread (19800,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:55.171][Thread 17648][tSockDBServer] Begin TopClient Thread (17648,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:55.183][Thread 17648][tSockDBServer] End TopClient Thread (17648) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 17:27:55.261][Thread 17508][tSockDBServer] Begin TopClient Thread (17508,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:27:55.272][Thread 17508][tSockDBServer] End TopClient Thread (17508) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 17:27:55.275][Thread 04524][tSockDBServer] Begin TopClient Thread (4524,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:28:22.597][Thread 24052][tSockDBServer] End TopClient Thread (24052) (IOs 192 / RCV 19.35 Kb. / SND 1.89 Kb. ) 
+[20240214 17:28:22.871][Thread 21260][tSockDBServer] End TopClient Thread (21260) (IOs 3432 / RCV 133.68 Kb. / SND 99.53 Kb. ) 
+[20240214 17:29:23.846][Thread 19800][tSockDBServer] End TopClient Thread (19800) (IOs 517 / RCV 370.61 Kb. / SND 30.79 Kb. ) 
+[20240214 17:29:23.847][Thread 04524][tSockDBServer] End TopClient Thread (4524) (IOs 56 / RCV 1.80 Kb. / SND 8.92 Kb. ) 
+[20240214 17:30:04.301][Thread 11996][tSockDBServer] End TopClient Thread (11996) (IOs 2417 / RCV 56.84 Kb. / SND 889.45 Kb. ) 
+[20240214 17:30:04.301][Thread 11960][tSockDBServer] End TopClient Thread (11960) (IOs 861 / RCV 13.23 Kb. / SND 364.45 Kb. ) 
+[20240214 17:30:04.398][Thread 10712][tLockServerConn][STANDALONE] End LockConn Thread (10712) Location 8734 (IOs 30 / RCV 86 bytes. / SND 93 bytes. )
+[20240214 17:30:04.400][Thread 10712][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 8734
+[20240214 17:30:08.826][Thread 17988]
+
+Type YES [Enter] or SIM [Enter] (uppercase) to exit: [20240214 17:30:13.217][Thread 15336][BEGINLOG]
+[SHUTDOWN] DBAccess 4.2 Server...
+
+[ENDLOG]
+[20240214 17:30:13.218][Thread 15336]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     7371.71 Mb.   Free     4569.02 Mb.
+Paging file .....    24228.73 Mb.   Used     8905.79 Mb.   Free    15322.95 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4240.79 Mb.   Free 134213487.09 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       27.59 Mb.
+Paged Memory ....       28.94 Mb.
+-------------------------------------------------------------------------------
+
+
+--------------- Application Summary -------------------------------------------
+Total Connections ............: 17
+Active connections ...........: 0
+User connections .............: 0
+Maximum connections (Peak)....: 6
+Total Application Threads ....: 13
+Connection Status ............: ENABLED
+Current open tables ..........: 0
+Global Named Locks ...........: 137
+Connections in Procedure .....: 0
+Connections in Trace .........: 0
+Connections in SQLReplay .....: 0
+Connections in Transaction ...: 0
+
+-------------------------------------------------------------------------------
+
+[20240214 17:30:13.224][Thread 15336][INFO] [SHUTDOWN] Notifying shutdown to 12 thread(s)...
+[20240214 17:30:13.740][Thread 15336][INFO] [SHUTDOWN] Notifying shutdown to 2 thread(s)...
+[20240214 17:30:14.055][Thread 18260][tMonitorJob] End DBMonitor Active Thread.
+[20240214 17:30:22.666][Thread 18320]
+***  DBACCESS  ***
+* DBAccess 4.2 Server - Build 20220303 - Apr 27 2023 17:44:50
+* Revision: 6153
+* Build Version: 22.1.1.4
+
+[20240214 17:30:22.668][Thread 18320][BEGINLOG]
+DBAccess 4.2 Server Started - Build 20220303-20230427 - STANDALONE
+MultiDB Version - Windows [RELEASE] [SMARTHEAP] [X86_64] - Version 22.1.1.4
+[ENDLOG]
+[20240214 17:30:22.971][Thread 18320]Main Application Thread .. [18320] PID [20924]
+[20240214 17:30:22.971][Thread 18320]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     7360.53 Mb.   Free     4580.20 Mb.
+Paging file .....    24228.73 Mb.   Used     8896.70 Mb.   Free    15332.03 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4206.55 Mb.   Free 134213521.32 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       14.14 Mb.
+Paged Memory ....       13.76 Mb.
+-------------------------------------------------------------------------------
+
+[20240214 17:30:22.973][Thread 18320]
+---------------- OS System Info -----------------------------------------------
+Windows 10 [Version 6.2.9200] 
+-------------------------------------------------------------------------------
+
+[20240214 17:30:22.974][Thread 18320]*** STARTING DBACCESS LOCK ENGINE WITH DEADLOCK CHECK DISABLED ***
+[20240214 17:30:22.975][Thread 18320][20240214 17:30:22.975][Thread 18320]SSL: Not using secure connections
+[20240214 17:30:22.977][Thread 23896][tMonitorJob] Start DBMonitor Active Thread.
+[20240214 17:30:22.978][Thread 18320][DBLICENSE] CPU Vendor [GenuineIntel]
+[20240214 17:30:22.979][Thread 18320][DBLICENSE] CPU String [Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz]
+[20240214 17:30:22.979][Thread 18320][DBLICENSE] 8 CPU(s) Logical Count.
+[20240214 17:30:22.980][Thread 18320][DBLICENSE] Intel CPU Detected.
+[20240214 17:30:22.981][Thread 18320][DBLICENSE] CPU Model [DETERMINED] Flags [01000]
+[20240214 17:30:22.982][Thread 18320][DBLICENSE] Hyper-Threading is supported.
+[20240214 17:30:22.982][Thread 18320][DBLICENSE] 4 Processor/Core Count.
+[20240214 17:30:22.983][Thread 18320][DBLICENSE] 4 Licenses required by CPUCount.
+[20240214 17:30:22.984][Thread 18320][DBLICENSE] [WARNING] Empty LicenseServer Configuration (Server []/ Port [0])
+
+[20240214 17:30:22.985][Thread 18320][DBLICENSE] DBAccess has NO LICENSE SERVER Configuration.
+[20240214 17:30:22.986][Thread 18320][DBLICENSE] Current License Mode [TOP_NO_LICENSE]
+[20240214 17:30:22.987][Thread 18320][DBACCESS] Starting DBAccess TCP Network Interface.
+[20240214 17:30:22.989][Thread 18320][INFO] [tTOPSockServer::Start] Listening port 7890 (default)
+[20240214 17:30:33.788][Thread 19956][tSockDBServer] Begin TopClient Thread (19956,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:30:33.791][Thread 19956][INFO] Connection [MSSQL/TOTVS_P1212310] using client library [odbc32.dll] (ODBC10)
+[20240214 17:30:33.832][Thread 19956][tDBServer::ConnectToDB] 
+--------------- Initial Connection Check-Up ---------------
+Database......: MSSQL
+Environment...: TOTVS_P1212310
+TableSpace....: 
+IndexSpace....: 
+Memo Type.....: VARBINARY(MAX)
+Clob Type.....: VARCHAR(MAX)
+Primary Key ..: CLUSTERED
+Compression ..: NONE
+DB Collation..: LATIN1_GENERAL_BIN
+DB Version....: 
+	Microsoft SQL Server 2019 (RTM-GDR) (KB5029377) - 15.0.2104.1 (X64) 
+	Aug 16 2023 00:09:21 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Education 10.0 <X64> (Build 19045: )
+SQL ServerName: MACEDO-8PL9YQ2\MAICOSOFT
+SQL Collation.: Latin1_General_BIN
+SQL Edition...: Developer Edition (64-bit)
+SQL Version...: 15.0.2104.1
+SQL P.Level...: RTM
+MARS .........: ENABLED
+DBMS Isolation: Read Uncommitted
+Schema as User: NO
+Lock timeout..: 0
+-----------------------------------------------------------
+
+--------------- ODBC Connection Check-Up ------------------
+ODBC Mapped Functions .....: 1.0
+ODBC DBMS Name.............: Microsoft SQL Server
+ODBC DBMS Version..........: 15.00.2104
+ODBC DBMS Database Name....: TOTVS_P1212310
+ODBC Data Source Name......: TOTVS_P1212310
+ODBC Server Name...........: MACEDO-8PL9YQ2\MAICOSOFT
+ODBC Driver Name...........: sqlncli11.dll
+ODBC Driver Version .......: 11.00.7001
+ODBC Support ODBC Version..: 03.80
+ODBC Connection Pooling ...: DISABLED
+ODBC Connection Mode ......: DSN
+-----------------------------------------------------------
+
+------------- Generic Connection Check-Up -----------------
+Prepared Stmt Cache .......: ENABLED
+Index Trace ...............: DISABLED
+ISAM Compatibility Mode ...: ENABLED
+Row Stamp Column ..........: DISABLED
+Automatic Stamp Adjust ....: DISABLED
+Row InsDt Column ..........: DISABLED
+Automatic InsDt Adjust ....: DISABLED
+View Implementation Type ..: 0
+Connection Access Mode ....: FULL (DEFAULT)
+Accept Outdated DBAPI .....: NO
+ThreadMin .................: 10
+ThreadInc .................: 5
+ThreadMax .................: 0
+Table Access Mode .........: READWRITE (DEFAULT)
+Set Isolation Level .......: Read UNCOMMITTED
+ISAM DefaultRowCount ......: 40
+ISAM FilteredRowCount .....: 250
+DB Unified Connection .....: DISABLED (LEGACY)
+Record Sequence Owner .....: DBACCESS (DEFAULT)
+Delete Operations .........: Using D_E_L_E_T_ (DEFAULT)
+Use Bind Operations .......: YES
+Seek with Bind Operations .: YES
+LOG Warning Messages ......: NO
+DB Warning Messages .......: NO
+Trim Right Spaces  ........: NO
+String Fields Unicode .....: NO (DEFAULT)
+Fields Accept Null ........: NO (DEFAULT)
+Use Large RECNO ...........: YES (DEFAULT)
+Use Lock in DB ............: NO
+DB LockTimeOut ............: UNLIMITED
+DEADLOCK EXIT .............: NO (DEFAULT)
+Operation Time Limit ......: 0.000 s.
+Trace Temporary Tables ....: NO (DEFAULT)
+MEMO Fields in Query ......: NO
+All Errors Diagnostic .....: NO (DEFAULT)
+String Field Type .........: VARCHAR
+Character Field Type ......: VARCHAR
+Maximum Record Lock Timer .: 0
+Use Large RECNO field .....: YES (DEFAULT)
+Inactive DBConn Release ...: DISABLED
+DB Connection Serialized...: NO
+Has Minimal Grants ........: YES
+Using Recommended Collation: YES
+-----------------------------------------------------------
+
+[20240214 17:30:33.981][Thread 10108][tSockDBServer] Begin TopClient Thread (10108,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:30:33.993][Thread 10108][tSockDBServer] End TopClient Thread (10108) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 17:30:44.427][Thread 07276][tSockDBServer] Begin TopClient Thread (7276,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:30:44.438][Thread 07276][tSockDBServer] End TopClient Thread (7276) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 17:30:44.441][Thread 21328][tSockDBServer] Begin TopClient Thread (21328,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20220303-20230427)
+[20240214 17:30:45.645][Thread 19956][tSockDBServer] End TopClient Thread (19956) (IOs 428 / RCV 9.12 Kb. / SND 25.82 Kb. ) 
+[20240214 17:30:45.647][Thread 21328][tSockDBServer] End TopClient Thread (21328) (IOs 29 / RCV 1.51 Kb. / SND 1.64 Kb. ) 
+[20240214 17:31:59.125][Thread 12812]
+
+Type YES [Enter] or SIM [Enter] (uppercase) to exit: [20240214 17:32:00.505][Thread 18320][BEGINLOG]
+[SHUTDOWN] DBAccess 4.2 Server...
+
+[ENDLOG]
+[20240214 17:32:00.506][Thread 18320]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     7269.93 Mb.   Free     4670.80 Mb.
+Paging file .....    24228.73 Mb.   Used     8725.19 Mb.   Free    15503.54 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4230.95 Mb.   Free 134213496.92 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       21.16 Mb.
+Paged Memory ....       21.68 Mb.
+-------------------------------------------------------------------------------
+
+
+--------------- Application Summary -------------------------------------------
+Total Connections ............: 5
+Active connections ...........: 0
+User connections .............: 0
+Maximum connections (Peak)....: 2
+Total Application Threads ....: 13
+Connection Status ............: ENABLED
+Current open tables ..........: 0
+Global Named Locks ...........: 0
+Connections in Procedure .....: 0
+Connections in Trace .........: 0
+Connections in SQLReplay .....: 0
+Connections in Transaction ...: 0
+
+-------------------------------------------------------------------------------
+
+[20240214 17:32:00.512][Thread 18320][INFO] [SHUTDOWN] Notifying shutdown to 12 thread(s)...
+[20240214 17:32:00.626][Thread 23896][tMonitorJob] End DBMonitor Active Thread.
+[20240214 18:31:28.390][Thread 10120]
+***  DBACCESS  ***
+* DBAccess 4.2 Server - Build 20230303 - Sep 29 2023 19:01:52
+* Revision: 6445
+* Build Version: 23.1.1.0
+
+[20240214 18:31:28.393][Thread 10120][BEGINLOG]
+DBAccess 4.2 Server Started - Build 20230303-20230929 - STANDALONE
+MultiDB Version - Windows [RELEASE] [SMARTHEAP] Version 11.6.1 [X86_64] - Version 23.1.1.0
+[ENDLOG]
+[20240214 18:31:28.990][Thread 10120]Main Application Thread .. [10120] PID [14112]
+[20240214 18:31:28.990][Thread 10120]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     8159.81 Mb.   Free     3780.92 Mb.
+Paging file .....    24228.73 Mb.   Used    10315.49 Mb.   Free    13913.24 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4206.79 Mb.   Free 134213521.08 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       14.77 Mb.
+Paged Memory ....       14.04 Mb.
+-------------------------------------------------------------------------------
+
+[20240214 18:31:28.993][Thread 10120]
+---------------- OS System Info -----------------------------------------------
+Windows 10 [Version 6.2.9200] 
+-------------------------------------------------------------------------------
+
+[20240214 18:31:28.995][Thread 10120]*** STARTING DBACCESS LOCK ENGINE WITH DEADLOCK CHECK DISABLED ***
+[20240214 18:31:28.996][Thread 10120][20240214 18:31:28.996][Thread 10120]SSL: Not using secure connections
+[20240214 18:31:29.014][Thread 22916][tMonitorJob] Start DBMonitor Active Thread.
+[20240214 18:31:29.015][Thread 10120][DBLICENSE] CPU Vendor [GenuineIntel]
+[20240214 18:31:29.017][Thread 10120][DBLICENSE] CPU String [Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz]
+[20240214 18:31:29.018][Thread 10120][DBLICENSE] 8 CPU(s) Logical Count.
+[20240214 18:31:29.020][Thread 10120][DBLICENSE] Intel CPU Detected.
+[20240214 18:31:29.024][Thread 10120][DBLICENSE] CPU Model [DETERMINED] Flags [01000]
+[20240214 18:31:29.025][Thread 10120][DBLICENSE] Hyper-Threading is supported.
+[20240214 18:31:29.026][Thread 10120][DBLICENSE] 4 Processor/Core Count.
+[20240214 18:31:29.028][Thread 10120][DBLICENSE] 4 Licenses required by CPUCount.
+[20240214 18:31:29.029][Thread 10120][DBLICENSE] [WARNING] Empty LicenseServer Configuration (Server []/ Port [0])
+
+[20240214 18:31:29.031][Thread 10120][DBLICENSE] DBAccess has NO LICENSE SERVER Configuration.
+[20240214 18:31:29.033][Thread 10120][DBLICENSE] Current License Mode [TOP_NO_LICENSE]
+[20240214 18:31:29.050][Thread 10120][DBACCESS] Starting DBAccess TCP Network Interface.
+[20240214 18:31:29.053][Thread 10120][INFO] [tTOPSockServer::Start] Listening port 7890 (default)
+[20240214 18:43:24.267][Thread 18456][tMonitor] Begin DBMonitor Thread (18456,127.0.0.1,WinNT (x64))
+[20240214 18:43:24.268][Thread 18456][tMonitor] End DBMonitor Thread (18456)
+[20240214 18:43:24.272][Thread 19764][tSockDBServer] Begin TopClient Thread (19764,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:43:24.274][Thread 19764][INFO] Connection [MSSQL/TOTVS_P1212310] using client library [odbc32.dll] (ODBC10)
+[20240214 18:43:24.510][Thread 19764][tDBServer::ConnectToDB] 
+--------------- Initial Connection Check-Up ---------------
+Database......: MSSQL
+Environment...: TOTVS_P1212310
+TableSpace....: 
+IndexSpace....: 
+Memo Type.....: VARBINARY(MAX)
+Clob Type.....: VARCHAR(MAX)
+Primary Key ..: CLUSTERED
+Compression ..: NONE
+DB Collation..: LATIN1_GENERAL_BIN
+DB Version....: 
+	Microsoft SQL Server 2019 (RTM-GDR) (KB5029377) - 15.0.2104.1 (X64) 
+	Aug 16 2023 00:09:21 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Education 10.0 <X64> (Build 19045: )
+SQL ServerName: MACEDO-8PL9YQ2\MAICOSOFT
+SQL Collation.: Latin1_General_BIN
+SQL Edition...: Developer Edition (64-bit)
+SQL Version...: 15.0.2104.1
+SQL P.Level...: RTM
+MARS .........: ENABLED
+DBMS Isolation: Read Uncommitted
+Schema as User: NO
+Lock timeout..: 0
+Opt.Recompile.: YES
+-----------------------------------------------------------
+
+--------------- ODBC Connection Check-Up ------------------
+ODBC Mapped Functions .....: 1.0
+ODBC DBMS Name.............: Microsoft SQL Server
+ODBC DBMS Version..........: 15.00.2104
+ODBC DBMS Database Name....: TOTVS_P1212310
+ODBC Data Source Name......: TOTVS_P1212310
+ODBC Server Name...........: MACEDO-8PL9YQ2\MAICOSOFT
+ODBC Driver Name...........: sqlncli11.dll
+ODBC Driver Version .......: 11.00.7001
+ODBC Support ODBC Version..: 03.80
+ODBC Connection Pooling ...: DISABLED
+ODBC Connection Mode ......: DSN
+-----------------------------------------------------------
+
+------------- Generic Connection Check-Up -----------------
+Prepared Stmt Cache .......: ENABLED
+Index Trace ...............: DISABLED
+ISAM Compatibility Mode ...: ENABLED
+Row Stamp Column ..........: DISABLED
+Automatic Stamp Adjust ....: DISABLED
+Row InsDt Column ..........: DISABLED
+Automatic InsDt Adjust ....: DISABLED
+View Implementation Type ..: 0
+Connection Access Mode ....: FULL (DEFAULT)
+Accept Outdated DBAPI .....: NO
+ThreadMin .................: 10
+ThreadInc .................: 5
+ThreadMax .................: 0
+Table Access Mode .........: READWRITE (DEFAULT)
+Set Isolation Level .......: Read UNCOMMITTED
+ISAM DefaultRowCount ......: 40
+ISAM FilteredRowCount .....: 250
+DB Unified Connection .....: DISABLED (LEGACY)
+Record Sequence Owner .....: DBACCESS (DEFAULT)
+Delete Operations .........: Using D_E_L_E_T_ (DEFAULT)
+Use Bind Operations .......: YES
+Seek with Bind Operations .: YES
+LOG Warning Messages ......: NO
+DB Warning Messages .......: NO
+Trim Right Spaces  ........: NO
+String Fields Unicode .....: NO (DEFAULT)
+Fields Accept Null ........: NO (DEFAULT)
+Use Large RECNO ...........: YES (DEFAULT)
+Use Lock in DB ............: NO
+DB LockTimeOut ............: UNLIMITED
+DEADLOCK EXIT .............: NO (DEFAULT)
+Operation Time Limit ......: 0.000 s.
+Trace Temporary Tables ....: NO (DEFAULT)
+MEMO Fields in Query ......: NO
+All Errors Diagnostic .....: NO (DEFAULT)
+String Field Type .........: VARCHAR
+Character Field Type ......: VARCHAR
+Maximum Record Lock Timer .: 0
+Use Large RECNO field .....: YES (DEFAULT)
+Inactive DBConn Release ...: DISABLED
+DB Connection Serialized...: NO
+Has Minimal Grants ........: YES
+Using Recommended Collation: YES
+-----------------------------------------------------------
+
+[20240214 18:43:25.807][Thread 15564][tSockDBServer] Begin TopClient Thread (15564,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:43:25.825][Thread 15564][tSockDBServer] End TopClient Thread (15564) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 18:43:25.830][Thread 22288][tSockDBServer] Begin TopClient Thread (22288,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:43:26.084][Thread 21716][tLockServerConn][STANDALONE] Begin LockConn Thread (21716,127.0.0.1) Location 23550 Type DBAPI
+[20240214 18:43:26.085][Thread 21716][tRecordLockServer][STANDALONE] Thread 21716 Create Notify node for location 23550
+[20240214 18:43:26.997][Thread 19764][tSockDBServer] End TopClient Thread (19764) (IOs 1216 / RCV 32.78 Kb. / SND 92.50 Kb. ) 
+[20240214 18:43:26.998][Thread 22288][tSockDBServer] End TopClient Thread (22288) (IOs 29 / RCV 1.52 Kb. / SND 1.64 Kb. ) 
+[20240214 18:43:31.099][Thread 21716][tLockServerConn][STANDALONE] End LockConn Thread (21716) Location 23550 (IOs 4 / RCV 34 bytes. / SND 15 bytes. )
+[20240214 18:43:31.100][Thread 21716][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 23550
+[20240214 18:45:37.956][Thread 12168][tSockDBServer] Begin TopClient Thread (12168,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:38.468][Thread 11116][tSockDBServer] Begin TopClient Thread (11116,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:38.484][Thread 11116][tSockDBServer] End TopClient Thread (11116) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 18:45:38.555][Thread 23004][tSockDBServer] Begin TopClient Thread (23004,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:38.596][Thread 23004][tSockDBServer] End TopClient Thread (23004) (IOs 24 / RCV 1.35 Kb. / SND 1.13 Kb. ) 
+[20240214 18:45:38.607][Thread 10848][tSockDBServer] Begin TopClient Thread (10848,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:38.952][Thread 14056][tSockDBServer] Begin TopClient Thread (14056,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:38.963][Thread 14056][tSockDBServer] End TopClient Thread (14056) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 18:45:38.967][Thread 18608][tSockDBServer] Begin TopClient Thread (18608,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:40.338][Thread 10848][tSockDBServer] End TopClient Thread (10848) (IOs 948 / RCV 15.04 Kb. / SND 91.12 Kb. ) 
+[20240214 18:45:40.340][Thread 18608][tSockDBServer] End TopClient Thread (18608) (IOs 67 / RCV 1.94 Kb. / SND 20.98 Kb. ) 
+[20240214 18:45:44.518][Thread 17540][tLockServerConn][STANDALONE] Begin LockConn Thread (17540,127.0.0.1) Location 24000 Type DBAPI
+[20240214 18:45:44.518][Thread 17540][tRecordLockServer][STANDALONE] Thread 17540 Create Notify node for location 24000
+[20240214 18:45:45.173][Thread 24320][tSockDBServer] Begin TopClient Thread (24320,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:45.183][Thread 24320][tSockDBServer] End TopClient Thread (24320) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240214 18:45:45.186][Thread 21680][tSockDBServer] Begin TopClient Thread (21680,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:50.623][Thread 19144][tSockDBServer] Begin TopClient Thread (19144,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:50.644][Thread 21144][tSockDBServer] Begin TopClient Thread (21144,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:50.947][Thread 19776][tSockDBServer] Begin TopClient Thread (19776,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:50.955][Thread 20980][tSockDBServer] Begin TopClient Thread (20980,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:50.959][Thread 19776][tSockDBServer] End TopClient Thread (19776) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 18:45:50.966][Thread 20980][tSockDBServer] End TopClient Thread (20980) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 18:45:51.032][Thread 21768][tSockDBServer] Begin TopClient Thread (21768,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:51.034][Thread 09456][tSockDBServer] Begin TopClient Thread (9456,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:51.042][Thread 21768][tSockDBServer] End TopClient Thread (21768) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 18:45:51.044][Thread 09456][tSockDBServer] End TopClient Thread (9456) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 18:45:51.045][Thread 25004][tSockDBServer] Begin TopClient Thread (25004,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:51.269][Thread 24900][tSockDBServer] Begin TopClient Thread (24900,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:45:53.565][Thread 21144][tSockDBServer] End TopClient Thread (21144) (IOs 452 / RCV 22.93 Kb. / SND 133.36 Kb. ) 
+[20240214 18:45:53.565][Thread 24900][tSockDBServer] End TopClient Thread (24900) (IOs 56 / RCV 1.80 Kb. / SND 14.31 Kb. ) 
+[20240214 18:46:03.882][Thread 12168][tSockDBServer] End TopClient Thread (12168) (IOs 2274 / RCV 53.78 Kb. / SND 658.48 Kb. ) 
+[20240214 18:46:03.882][Thread 21680][tSockDBServer] End TopClient Thread (21680) (IOs 743 / RCV 9.58 Kb. / SND 286.84 Kb. ) 
+[20240214 18:46:13.806][Thread 10100][tSockDBServer] Begin TopClient Thread (10100,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:46:13.893][Thread 25264][tSockDBServer] Begin TopClient Thread (25264,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:46:13.908][Thread 25264][tSockDBServer] End TopClient Thread (25264) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 18:46:18.860][Thread 22868][tSockDBServer] Begin TopClient Thread (22868,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:46:18.871][Thread 22868][tSockDBServer] End TopClient Thread (22868) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240214 18:46:18.873][Thread 22140][tSockDBServer] Begin TopClient Thread (22140,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:46:25.259][Thread 10100][tSockDBServer] End TopClient Thread (10100) (IOs 1032 / RCV 24.27 Kb. / SND 81.07 Kb. ) 
+[20240214 18:46:25.260][Thread 22140][tSockDBServer] End TopClient Thread (22140) (IOs 30 / RCV 1.53 Kb. / SND 1.71 Kb. ) 
+[20240214 18:46:44.194][Thread 09972][tSockDBServer] Begin TopClient Thread (9972,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:46:44.791][Thread 23612][tSockDBServer] Begin TopClient Thread (23612,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:46:44.802][Thread 23612][tSockDBServer] End TopClient Thread (23612) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 18:46:44.804][Thread 24424][tSockDBServer] Begin TopClient Thread (24424,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:47:26.561][Thread 09972][tSockDBServer] End TopClient Thread (9972) (IOs 137 / RCV 3.48 Kb. / SND 2.62 Kb. ) 
+[20240214 18:47:26.562][Thread 24424][tSockDBServer] End TopClient Thread (24424) (IOs 129 / RCV 2.97 Kb. / SND 9.55 Kb. ) 
+[20240214 18:47:37.495][Thread 24792][tSockDBServer] Begin TopClient Thread (24792,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:47:38.106][Thread 24796][tSockDBServer] Begin TopClient Thread (24796,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:47:38.119][Thread 24796][tSockDBServer] End TopClient Thread (24796) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 18:47:38.122][Thread 25316][tSockDBServer] Begin TopClient Thread (25316,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:50:58.358][Thread 24792][tSockDBServer] End TopClient Thread (24792) (IOs 137 / RCV 3.48 Kb. / SND 2.65 Kb. ) 
+[20240214 18:50:58.359][Thread 25316][tSockDBServer] End TopClient Thread (25316) (IOs 129 / RCV 2.97 Kb. / SND 9.55 Kb. ) 
+[20240214 18:51:05.567][Thread 19144][tSockDBServer] End TopClient Thread (19144) (IOs 24217 / RCV 49.48 Mb. / SND 2.17 Mb. ) 
+[20240214 18:51:05.568][Thread 25004][tSockDBServer] End TopClient Thread (25004) (IOs 56 / RCV 1.80 Kb. / SND 8.93 Kb. ) 
+[20240214 18:51:10.002][Thread 17540][BEGINLOG]
+Thread (17540) communication failure. ( snd : -1, buffer size : 7 )
+[ENDLOG]
+[20240214 18:51:10.003][Thread 17540][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 24000
+[20240214 18:51:39.770][Thread 25344][tMonitor] Begin DBMonitor Thread (25344,127.0.0.1,WinNT (x64))
+[20240214 18:51:39.772][Thread 25344][tMonitor] End DBMonitor Thread (25344)
+[20240214 18:51:39.774][Thread 24932][tSockDBServer] Begin TopClient Thread (24932,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:51:40.496][Thread 13004][tSockDBServer] Begin TopClient Thread (13004,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:51:40.508][Thread 13004][tSockDBServer] End TopClient Thread (13004) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 18:51:40.511][Thread 24888][tSockDBServer] Begin TopClient Thread (24888,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 18:51:48.664][Thread 19204][tLockServerConn][STANDALONE] Begin LockConn Thread (19204,127.0.0.1) Location 25189 Type DBAPI
+[20240214 18:51:48.665][Thread 19204][tRecordLockServer][STANDALONE] Thread 19204 Create Notify node for location 25189
+[20240214 19:02:31.359][Thread 17560][tSockDBServer] Begin TopClient Thread (17560,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.435][Thread 20656][tSockDBServer] Begin TopClient Thread (20656,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.455][Thread 21568][tSockDBServer] Begin TopClient Thread (21568,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.473][Thread 24752][tSockDBServer] Begin TopClient Thread (24752,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.501][Thread 07988][tSockDBServer] Begin TopClient Thread (7988,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.505][Thread 24536][tSockDBServer] Begin TopClient Thread (24536,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.507][Thread 22008][tSockDBServer] Begin TopClient Thread (22008,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.875][Thread 20872][tSockDBServer] Begin TopClient Thread (20872,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.876][Thread 24040][tSockDBServer] Begin TopClient Thread (24040,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.878][Thread 19104][tSockDBServer] Begin TopClient Thread (19104,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.879][Thread 20492][tSockDBServer] Begin TopClient Thread (20492,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:31.880][Thread 01240][tSockDBServer] Begin TopClient Thread (1240,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:32.484][Thread 15084][tSockDBServer] Begin TopClient Thread (15084,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:32.485][Thread 25508][tSockDBServer] Begin TopClient Thread (25508,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:32.486][Thread 06236][tSockDBServer] Begin TopClient Thread (6236,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:32.487][Thread 16940][tSockDBServer] Begin TopClient Thread (16940,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:32.488][Thread 19232][tSockDBServer] Begin TopClient Thread (19232,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:32.501][Thread 15084][tSockDBServer] End TopClient Thread (15084) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:32.508][Thread 06236][tSockDBServer] End TopClient Thread (6236) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:32.508][Thread 25508][tSockDBServer] End TopClient Thread (25508) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:32.510][Thread 16940][tSockDBServer] End TopClient Thread (16940) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:32.511][Thread 19232][tSockDBServer] End TopClient Thread (19232) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:33.093][Thread 22452][tSockDBServer] Begin TopClient Thread (22452,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.094][Thread 24624][tSockDBServer] Begin TopClient Thread (24624,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.096][Thread 21036][tSockDBServer] Begin TopClient Thread (21036,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.097][Thread 03408][tSockDBServer] Begin TopClient Thread (3408,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.098][Thread 12972][tSockDBServer] Begin TopClient Thread (12972,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.702][Thread 08072][tSockDBServer] Begin TopClient Thread (8072,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.704][Thread 08736][tSockDBServer] Begin TopClient Thread (8736,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.706][Thread 22444][tSockDBServer] Begin TopClient Thread (22444,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.708][Thread 25200][tSockDBServer] Begin TopClient Thread (25200,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.709][Thread 19540][tSockDBServer] Begin TopClient Thread (19540,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:33.731][Thread 19540][tSockDBServer] End TopClient Thread (19540) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:33.733][Thread 25200][tSockDBServer] End TopClient Thread (25200) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:34.312][Thread 01588][tSockDBServer] Begin TopClient Thread (1588,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.313][Thread 15132][tSockDBServer] Begin TopClient Thread (15132,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.314][Thread 22272][tSockDBServer] Begin TopClient Thread (22272,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.316][Thread 15824][tSockDBServer] Begin TopClient Thread (15824,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.317][Thread 25416][tSockDBServer] Begin TopClient Thread (25416,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.332][Thread 22272][tSockDBServer] End TopClient Thread (22272) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:34.334][Thread 15824][tSockDBServer] End TopClient Thread (15824) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:34.336][Thread 25416][tSockDBServer] End TopClient Thread (25416) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:34.921][Thread 24308][tSockDBServer] Begin TopClient Thread (24308,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.922][Thread 24964][tSockDBServer] Begin TopClient Thread (24964,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.923][Thread 18376][tSockDBServer] Begin TopClient Thread (18376,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.924][Thread 24204][tSockDBServer] Begin TopClient Thread (24204,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.926][Thread 12488][tSockDBServer] Begin TopClient Thread (12488,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:34.942][Thread 24204][tSockDBServer] End TopClient Thread (24204) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:34.944][Thread 12488][tSockDBServer] End TopClient Thread (12488) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:35.526][Thread 12652][tSockDBServer] Begin TopClient Thread (12652,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:35.528][Thread 20232][tSockDBServer] Begin TopClient Thread (20232,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:35.529][Thread 19032][tSockDBServer] Begin TopClient Thread (19032,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:35.531][Thread 05492][tSockDBServer] Begin TopClient Thread (5492,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:35.532][Thread 18212][tSockDBServer] Begin TopClient Thread (18212,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:35.547][Thread 19032][tSockDBServer] End TopClient Thread (19032) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:02:36.135][Thread 19980][tSockDBServer] Begin TopClient Thread (19980,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:02:44.706][Thread 17560][tSockDBServer] End TopClient Thread (17560) (IOs 88 / RCV 4.58 Kb. / SND 2.58 Kb. ) 
+[20240214 19:02:44.707][Thread 22452][tSockDBServer] End TopClient Thread (22452) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:02:46.884][Thread 20656][tSockDBServer] End TopClient Thread (20656) (IOs 79 / RCV 2.22 Kb. / SND 1.27 Kb. ) 
+[20240214 19:02:46.886][Thread 03408][tSockDBServer] End TopClient Thread (3408) (IOs 30 / RCV 1.42 Kb. / SND 9.57 Kb. ) 
+[20240214 19:02:49.070][Thread 24752][tSockDBServer] End TopClient Thread (24752) (IOs 79 / RCV 2.22 Kb. / SND 1.27 Kb. ) 
+[20240214 19:02:49.071][Thread 24624][tSockDBServer] End TopClient Thread (24624) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:02:51.259][Thread 21568][tSockDBServer] End TopClient Thread (21568) (IOs 79 / RCV 2.22 Kb. / SND 1.27 Kb. ) 
+[20240214 19:02:51.260][Thread 21036][tSockDBServer] End TopClient Thread (21036) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:02:53.446][Thread 20492][tSockDBServer] End TopClient Thread (20492) (IOs 79 / RCV 2.22 Kb. / SND 1.27 Kb. ) 
+[20240214 19:02:53.447][Thread 01588][tSockDBServer] End TopClient Thread (1588) (IOs 30 / RCV 1.42 Kb. / SND 9.57 Kb. ) 
+[20240214 19:02:55.633][Thread 22008][tSockDBServer] End TopClient Thread (22008) (IOs 88 / RCV 3.14 Kb. / SND 1.81 Kb. ) 
+[20240214 19:02:55.634][Thread 12972][tSockDBServer] End TopClient Thread (12972) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:02:57.820][Thread 20872][tSockDBServer] End TopClient Thread (20872) (IOs 88 / RCV 11.73 Kb. / SND 7.80 Kb. ) 
+[20240214 19:02:57.821][Thread 15132][tSockDBServer] End TopClient Thread (15132) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:03:00.007][Thread 01240][tSockDBServer] End TopClient Thread (1240) (IOs 88 / RCV 4.75 Kb. / SND 2.47 Kb. ) 
+[20240214 19:03:00.007][Thread 24308][tSockDBServer] End TopClient Thread (24308) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:03:02.194][Thread 19104][tSockDBServer] End TopClient Thread (19104) (IOs 88 / RCV 5.81 Kb. / SND 3.22 Kb. ) 
+[20240214 19:03:02.194][Thread 24964][tSockDBServer] End TopClient Thread (24964) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:03:04.381][Thread 24536][tSockDBServer] End TopClient Thread (24536) (IOs 89 / RCV 5.92 Kb. / SND 3.12 Kb. ) 
+[20240214 19:03:04.381][Thread 18212][tSockDBServer] End TopClient Thread (18212) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:03:06.565][Thread 24040][tSockDBServer] End TopClient Thread (24040) (IOs 88 / RCV 7.30 Kb. / SND 3.74 Kb. ) 
+[20240214 19:03:06.567][Thread 18376][tSockDBServer] End TopClient Thread (18376) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:03:08.752][Thread 08072][tSockDBServer] End TopClient Thread (8072) (IOs 88 / RCV 6.01 Kb. / SND 3.33 Kb. ) 
+[20240214 19:03:08.753][Thread 20232][tSockDBServer] End TopClient Thread (20232) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:03:10.932][Thread 08736][tSockDBServer] End TopClient Thread (8736) (IOs 88 / RCV 12.69 Kb. / SND 6.32 Kb. ) 
+[20240214 19:03:10.933][Thread 12652][tSockDBServer] End TopClient Thread (12652) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:03:13.118][Thread 07988][tSockDBServer] End TopClient Thread (7988) (IOs 89 / RCV 10.06 Kb. / SND 5.18 Kb. ) 
+[20240214 19:03:13.119][Thread 05492][tSockDBServer] End TopClient Thread (5492) (IOs 30 / RCV 1.42 Kb. / SND 9.57 Kb. ) 
+[20240214 19:03:15.305][Thread 22444][tSockDBServer] End TopClient Thread (22444) (IOs 88 / RCV 3.17 Kb. / SND 1.77 Kb. ) 
+[20240214 19:03:15.307][Thread 19980][tSockDBServer] End TopClient Thread (19980) (IOs 30 / RCV 1.42 Kb. / SND 9.58 Kb. ) 
+[20240214 19:17:00.609][Thread 17292][tSockDBServer] Begin TopClient Thread (17292,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:17:00.624][Thread 17292][tSockDBServer] End TopClient Thread (17292) (IOs 20 / RCV 1.32 Kb. / SND 1.12 Kb. ) 
+[20240214 19:17:14.904][Thread 20792][tSockDBServer] Begin TopClient Thread (20792,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:17:14.915][Thread 20792][tSockDBServer] End TopClient Thread (20792) (IOs 20 / RCV 1.32 Kb. / SND 1.12 Kb. ) 
+[20240214 19:19:16.831][Thread 24932][tSockDBServer] End TopClient Thread (24932) (IOs 2020809 / RCV 418.99 Mb. / SND 458.43 Mb. ) 
+[20240214 19:19:16.831][Thread 24888][tSockDBServer] End TopClient Thread (24888) (IOs 244148 / RCV 61.87 Mb. / SND 220.49 Mb. ) 
+[20240214 19:19:20.103][Thread 19204][tLockServerConn][STANDALONE] End LockConn Thread (19204) Location 25189 (IOs 22136 / RCV 43.26 Kb. / SND 726.12 Kb. )
+[20240214 19:19:20.104][Thread 19204][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 25189
+[20240214 19:22:27.207][Thread 24916][tSockDBServer] Begin TopClient Thread (24916,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:22:28.383][Thread 19616][tSockDBServer] Begin TopClient Thread (19616,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:22:28.394][Thread 19616][tSockDBServer] End TopClient Thread (19616) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 19:22:28.397][Thread 23412][tSockDBServer] Begin TopClient Thread (23412,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:22:28.587][Thread 18392][tLockServerConn][STANDALONE] Begin LockConn Thread (18392,127.0.0.1) Location 31198 Type DBAPI
+[20240214 19:22:28.589][Thread 18392][tRecordLockServer][STANDALONE] Thread 18392 Create Notify node for location 31198
+[20240214 19:22:29.507][Thread 24916][tSockDBServer] End TopClient Thread (24916) (IOs 1216 / RCV 32.78 Kb. / SND 92.42 Kb. ) 
+[20240214 19:22:29.508][Thread 23412][tSockDBServer] End TopClient Thread (23412) (IOs 29 / RCV 1.52 Kb. / SND 1.64 Kb. ) 
+[20240214 19:22:33.591][Thread 18392][tLockServerConn][STANDALONE] End LockConn Thread (18392) Location 31198 (IOs 4 / RCV 34 bytes. / SND 15 bytes. )
+[20240214 19:22:33.593][Thread 18392][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 31198
+[20240214 19:23:00.457][Thread 16808][tSockDBServer] Begin TopClient Thread (16808,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:23:00.946][Thread 24332][tSockDBServer] Begin TopClient Thread (24332,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:23:00.958][Thread 24332][tSockDBServer] End TopClient Thread (24332) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 19:23:00.960][Thread 25504][tSockDBServer] Begin TopClient Thread (25504,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:23:01.114][Thread 13876][tLockServerConn][STANDALONE] Begin LockConn Thread (13876,127.0.0.1) Location 31306 Type DBAPI
+[20240214 19:23:01.115][Thread 13876][tRecordLockServer][STANDALONE] Thread 13876 Create Notify node for location 31306
+[20240214 19:23:01.921][Thread 16808][tSockDBServer] End TopClient Thread (16808) (IOs 1216 / RCV 32.78 Kb. / SND 92.42 Kb. ) 
+[20240214 19:23:01.921][Thread 25504][tSockDBServer] End TopClient Thread (25504) (IOs 29 / RCV 1.52 Kb. / SND 1.64 Kb. ) 
+[20240214 19:23:06.128][Thread 13876][tLockServerConn][STANDALONE] End LockConn Thread (13876) Location 31306 (IOs 4 / RCV 34 bytes. / SND 15 bytes. )
+[20240214 19:23:06.129][Thread 13876][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 31306
+[20240214 19:23:55.711][Thread 02256][tSockDBServer] Begin TopClient Thread (2256,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:23:55.891][Thread 14664][tSockDBServer] Begin TopClient Thread (14664,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:23:55.902][Thread 14664][tSockDBServer] End TopClient Thread (14664) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 19:24:00.776][Thread 22068][tLockServerConn][STANDALONE] Begin LockConn Thread (22068,127.0.0.1) Location 31498 Type DBAPI
+[20240214 19:24:00.777][Thread 22068][tRecordLockServer][STANDALONE] Thread 22068 Create Notify node for location 31498
+[20240214 19:24:01.255][Thread 19188][tSockDBServer] Begin TopClient Thread (19188,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:01.266][Thread 19188][tSockDBServer] End TopClient Thread (19188) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240214 19:24:01.268][Thread 08860][tSockDBServer] Begin TopClient Thread (8860,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:05.759][Thread 21568][tSockDBServer] Begin TopClient Thread (21568,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:06.080][Thread 21836][tSockDBServer] Begin TopClient Thread (21836,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:06.091][Thread 21836][tSockDBServer] End TopClient Thread (21836) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 19:24:06.155][Thread 25084][tSockDBServer] Begin TopClient Thread (25084,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:06.165][Thread 25084][tSockDBServer] End TopClient Thread (25084) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:24:06.167][Thread 22320][tSockDBServer] Begin TopClient Thread (22320,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:06.571][Thread 21568][tSockDBServer] End TopClient Thread (21568) (IOs 419 / RCV 9.57 Kb. / SND 32.69 Kb. ) 
+[20240214 19:24:06.571][Thread 22320][tSockDBServer] End TopClient Thread (22320) (IOs 56 / RCV 1.80 Kb. / SND 14.31 Kb. ) 
+[20240214 19:24:40.089][Thread 02256][tSockDBServer] End TopClient Thread (2256) (IOs 2312 / RCV 54.60 Kb. / SND 672.47 Kb. ) 
+[20240214 19:24:40.090][Thread 08860][tSockDBServer] End TopClient Thread (8860) (IOs 766 / RCV 10.17 Kb. / SND 298.30 Kb. ) 
+[20240214 19:24:40.832][Thread 22068][tLockServerConn][STANDALONE] End LockConn Thread (22068) Location 31498 (IOs 11 / RCV 48 bytes. / SND 36 bytes. )
+[20240214 19:24:40.834][Thread 22068][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 31498
+[20240214 19:24:53.298][Thread 21432][tSockDBServer] Begin TopClient Thread (21432,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:53.396][Thread 09096][tSockDBServer] Begin TopClient Thread (9096,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:53.412][Thread 09096][tSockDBServer] End TopClient Thread (9096) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 19:24:58.868][Thread 11132][tLockServerConn][STANDALONE] Begin LockConn Thread (11132,127.0.0.1) Location 31688 Type DBAPI
+[20240214 19:24:58.869][Thread 11132][tRecordLockServer][STANDALONE] Thread 11132 Create Notify node for location 31688
+[20240214 19:24:59.335][Thread 20132][tSockDBServer] Begin TopClient Thread (20132,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:24:59.345][Thread 20132][tSockDBServer] End TopClient Thread (20132) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240214 19:24:59.348][Thread 14760][tSockDBServer] Begin TopClient Thread (14760,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:10.843][Thread 20568][tSockDBServer] Begin TopClient Thread (20568,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:10.912][Thread 23204][tSockDBServer] Begin TopClient Thread (23204,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:10.926][Thread 23204][tSockDBServer] End TopClient Thread (23204) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 19:25:11.974][Thread 14900][tSockDBServer] Begin TopClient Thread (14900,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:11.984][Thread 14900][tSockDBServer] End TopClient Thread (14900) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240214 19:25:11.987][Thread 08592][tSockDBServer] Begin TopClient Thread (8592,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:39.753][Thread 22976][tSockDBServer] Begin TopClient Thread (22976,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:40.062][Thread 04920][tSockDBServer] Begin TopClient Thread (4920,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:40.073][Thread 04920][tSockDBServer] End TopClient Thread (4920) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240214 19:25:40.139][Thread 21704][tSockDBServer] Begin TopClient Thread (21704,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:40.148][Thread 21704][tSockDBServer] End TopClient Thread (21704) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240214 19:25:40.151][Thread 23756][tSockDBServer] Begin TopClient Thread (23756,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:40.994][Thread 22976][tSockDBServer] End TopClient Thread (22976) (IOs 786 / RCV 13.44 Kb. / SND 39.52 Kb. ) 
+[20240214 19:25:40.996][Thread 23756][tSockDBServer] End TopClient Thread (23756) (IOs 542 / RCV 6.80 Kb. / SND 155.08 Kb. ) 
+[20240214 19:25:41.017][Thread 20548][tSockDBServer] Begin TopClient Thread (20548,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240214 19:25:41.051][Thread 20548][tSockDBServer] End TopClient Thread (20548) (IOs 26 / RCV 1.39 Kb. / SND 1.99 Kb. ) 
+[20240214 19:25:45.226][Thread 20568][tSockDBServer] End TopClient Thread (20568) (IOs 3674 / RCV 119.08 Kb. / SND 1.11 Mb. ) 
+[20240214 19:25:45.227][Thread 08592][tSockDBServer] End TopClient Thread (8592) (IOs 907 / RCV 12.35 Kb. / SND 561.28 Kb. ) 
+[20240214 19:25:53.650][Thread 21432][tSockDBServer] End TopClient Thread (21432) (IOs 1618 / RCV 42.80 Kb. / SND 701.40 Kb. ) 
+[20240214 19:25:53.651][Thread 14760][tSockDBServer] End TopClient Thread (14760) (IOs 222 / RCV 6.58 Kb. / SND 69.18 Kb. ) 
+[20240214 19:25:53.968][Thread 11132][tLockServerConn][STANDALONE] End LockConn Thread (11132) Location 31688 (IOs 14 / RCV 54 bytes. / SND 45 bytes. )
+[20240214 19:25:53.970][Thread 11132][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 31688
+[20240214 19:26:27.452][Thread 18392]
+
+Type YES [Enter] or SIM [Enter] (uppercase) to exit: [20240214 19:26:29.764][Thread 10120][BEGINLOG]
+[SHUTDOWN] DBAccess 4.2 Server...
+
+[ENDLOG]
+[20240214 19:26:29.766][Thread 10120]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     9990.17 Mb.   Free     1950.56 Mb.
+Paging file .....    24228.73 Mb.   Used    13569.13 Mb.   Free    10659.60 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4249.76 Mb.   Free 134213478.12 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       25.50 Mb.
+Paged Memory ....       32.40 Mb.
+-------------------------------------------------------------------------------
+
+
+--------------- Application Summary -------------------------------------------
+Total Connections ............: 105
+Active connections ...........: 0
+User connections .............: 0
+Maximum connections (Peak)....: 32
+Total Application Threads ....: 13
+Connection Status ............: ENABLED
+Current open tables ..........: 0
+Global Named Locks ...........: 0
+Connections in Procedure .....: 0
+Connections in Trace .........: 0
+Connections in SQLReplay .....: 0
+Connections in Transaction ...: 0
+
+-------------------------------------------------------------------------------
+
+[20240214 19:26:29.771][Thread 10120][INFO] [SHUTDOWN] Notifying shutdown to 12 thread(s)...
+[20240214 19:26:30.284][Thread 10120][INFO] [SHUTDOWN] Notifying shutdown to 11 thread(s)...
+[20240214 19:26:30.429][Thread 22916][tMonitorJob] End DBMonitor Active Thread.
+[20240217 09:22:26.723][Thread 21704]
+***  DBACCESS  ***
+* DBAccess 4.2 Server - Build 20230303 - Sep 29 2023 19:01:52
+* Revision: 6445
+* Build Version: 23.1.1.0
+
+[20240217 09:22:26.726][Thread 21704][BEGINLOG]
+DBAccess 4.2 Server Started - Build 20230303-20230929 - STANDALONE
+MultiDB Version - Windows [RELEASE] [SMARTHEAP] Version 11.6.1 [X86_64] - Version 23.1.1.0
+[ENDLOG]
+[20240217 09:22:27.102][Thread 21704]Main Application Thread .. [21704] PID [1004]
+[20240217 09:22:27.103][Thread 21704]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     5936.08 Mb.   Free     6004.65 Mb.
+Paging file .....    24228.73 Mb.   Used     7328.07 Mb.   Free    16900.66 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4201.94 Mb.   Free 134213525.93 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       14.07 Mb.
+Paged Memory ....       13.62 Mb.
+-------------------------------------------------------------------------------
+
+[20240217 09:22:27.105][Thread 21704]
+---------------- OS System Info -----------------------------------------------
+Windows 10 [Version 6.2.9200] 
+-------------------------------------------------------------------------------
+
+[20240217 09:22:27.105][Thread 21704]*** STARTING DBACCESS LOCK ENGINE WITH DEADLOCK CHECK DISABLED ***
+[20240217 09:22:27.106][Thread 21704][20240217 09:22:27.107][Thread 21704]SSL: Not using secure connections
+[20240217 09:22:27.109][Thread 26040][tMonitorJob] Start DBMonitor Active Thread.
+[20240217 09:22:27.110][Thread 21704][DBLICENSE] CPU Vendor [GenuineIntel]
+[20240217 09:22:27.111][Thread 21704][DBLICENSE] CPU String [Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz]
+[20240217 09:22:27.115][Thread 21704][DBLICENSE] 8 CPU(s) Logical Count.
+[20240217 09:22:27.116][Thread 21704][DBLICENSE] Intel CPU Detected.
+[20240217 09:22:27.117][Thread 21704][DBLICENSE] CPU Model [DETERMINED] Flags [01000]
+[20240217 09:22:27.118][Thread 21704][DBLICENSE] Hyper-Threading is supported.
+[20240217 09:22:27.119][Thread 21704][DBLICENSE] 4 Processor/Core Count.
+[20240217 09:22:27.120][Thread 21704][DBLICENSE] 4 Licenses required by CPUCount.
+[20240217 09:22:27.121][Thread 21704][DBLICENSE] [WARNING] Empty LicenseServer Configuration (Server []/ Port [0])
+
+[20240217 09:22:27.122][Thread 21704][DBLICENSE] DBAccess has NO LICENSE SERVER Configuration.
+[20240217 09:22:27.123][Thread 21704][DBLICENSE] Current License Mode [TOP_NO_LICENSE]
+[20240217 09:22:27.124][Thread 21704][DBACCESS] Starting DBAccess TCP Network Interface.
+[20240217 09:22:27.126][Thread 21704][INFO] [tTOPSockServer::Start] Listening port 7890 (default)
+[20240217 09:22:54.764][Thread 27412][tMonitor] Begin DBMonitor Thread (27412,127.0.0.1,WinNT (x64))
+[20240217 09:22:54.765][Thread 27412][tMonitor] End DBMonitor Thread (27412)
+[20240217 09:22:54.770][Thread 27836][tSockDBServer] Begin TopClient Thread (27836,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:54.773][Thread 27836][INFO] Connection [MSSQL/TOTVS_P1212310] using client library [odbc32.dll] (ODBC10)
+[20240217 09:22:55.138][Thread 27836][tDBServer::ConnectToDB] 
+--------------- Initial Connection Check-Up ---------------
+Database......: MSSQL
+Environment...: TOTVS_P1212310
+TableSpace....: 
+IndexSpace....: 
+Memo Type.....: VARBINARY(MAX)
+Clob Type.....: VARCHAR(MAX)
+Primary Key ..: CLUSTERED
+Compression ..: NONE
+DB Collation..: LATIN1_GENERAL_BIN
+DB Version....: 
+	Microsoft SQL Server 2019 (RTM-GDR) (KB5029377) - 15.0.2104.1 (X64) 
+	Aug 16 2023 00:09:21 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Education 10.0 <X64> (Build 19045: )
+SQL ServerName: MACEDO-8PL9YQ2\MAICOSOFT
+SQL Collation.: Latin1_General_BIN
+SQL Edition...: Developer Edition (64-bit)
+SQL Version...: 15.0.2104.1
+SQL P.Level...: RTM
+MARS .........: ENABLED
+DBMS Isolation: Read Uncommitted
+Schema as User: NO
+Lock timeout..: 0
+Opt.Recompile.: YES
+-----------------------------------------------------------
+
+--------------- ODBC Connection Check-Up ------------------
+ODBC Mapped Functions .....: 1.0
+ODBC DBMS Name.............: Microsoft SQL Server
+ODBC DBMS Version..........: 15.00.2104
+ODBC DBMS Database Name....: TOTVS_P1212310
+ODBC Data Source Name......: TOTVS_P1212310
+ODBC Server Name...........: MACEDO-8PL9YQ2\MAICOSOFT
+ODBC Driver Name...........: sqlncli11.dll
+ODBC Driver Version .......: 11.00.7001
+ODBC Support ODBC Version..: 03.80
+ODBC Connection Pooling ...: DISABLED
+ODBC Connection Mode ......: DSN
+-----------------------------------------------------------
+
+------------- Generic Connection Check-Up -----------------
+Prepared Stmt Cache .......: ENABLED
+Index Trace ...............: DISABLED
+ISAM Compatibility Mode ...: ENABLED
+Row Stamp Column ..........: DISABLED
+Automatic Stamp Adjust ....: DISABLED
+Row InsDt Column ..........: DISABLED
+Automatic InsDt Adjust ....: DISABLED
+View Implementation Type ..: 0
+Connection Access Mode ....: FULL (DEFAULT)
+Accept Outdated DBAPI .....: NO
+ThreadMin .................: 10
+ThreadInc .................: 5
+ThreadMax .................: 0
+Table Access Mode .........: READWRITE (DEFAULT)
+Set Isolation Level .......: Read UNCOMMITTED
+ISAM DefaultRowCount ......: 40
+ISAM FilteredRowCount .....: 250
+DB Unified Connection .....: DISABLED (LEGACY)
+Record Sequence Owner .....: DBACCESS (DEFAULT)
+Delete Operations .........: Using D_E_L_E_T_ (DEFAULT)
+Use Bind Operations .......: YES
+Seek with Bind Operations .: YES
+LOG Warning Messages ......: NO
+DB Warning Messages .......: NO
+Trim Right Spaces  ........: NO
+String Fields Unicode .....: NO (DEFAULT)
+Fields Accept Null ........: NO (DEFAULT)
+Use Large RECNO ...........: YES (DEFAULT)
+Use Lock in DB ............: NO
+DB LockTimeOut ............: UNLIMITED
+DEADLOCK EXIT .............: NO (DEFAULT)
+Operation Time Limit ......: 0.000 s.
+Trace Temporary Tables ....: NO (DEFAULT)
+MEMO Fields in Query ......: NO
+All Errors Diagnostic .....: NO (DEFAULT)
+String Field Type .........: VARCHAR
+Character Field Type ......: VARCHAR
+Maximum Record Lock Timer .: 0
+Use Large RECNO field .....: YES (DEFAULT)
+Inactive DBConn Release ...: DISABLED
+DB Connection Serialized...: NO
+Has Minimal Grants ........: YES
+Using Recommended Collation: YES
+-----------------------------------------------------------
+
+[20240217 09:22:55.582][Thread 27064][tSockDBServer] Begin TopClient Thread (27064,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:55.596][Thread 27064][tSockDBServer] End TopClient Thread (27064) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240217 09:22:55.684][Thread 25544][tSockDBServer] Begin TopClient Thread (25544,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:55.718][Thread 15356][tSockDBServer] Begin TopClient Thread (15356,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:55.730][Thread 25544][tSockDBServer] End TopClient Thread (25544) (IOs 24 / RCV 1.35 Kb. / SND 1.13 Kb. ) 
+[20240217 09:22:55.747][Thread 03408][tSockDBServer] Begin TopClient Thread (3408,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:55.818][Thread 19256][tSockDBServer] Begin TopClient Thread (19256,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:55.833][Thread 19256][tSockDBServer] End TopClient Thread (19256) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240217 09:22:55.848][Thread 16580][tSockDBServer] Begin TopClient Thread (16580,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:56.249][Thread 18056][tSockDBServer] Begin TopClient Thread (18056,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:56.261][Thread 18056][tSockDBServer] End TopClient Thread (18056) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240217 09:22:56.266][Thread 27996][tSockDBServer] Begin TopClient Thread (27996,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:22:57.454][Thread 03408][tMSSQLConnection::GetFieldDefValue] Unknown field type M
+[20240217 09:22:58.037][Thread 03408][tSockDBServer] End TopClient Thread (3408) (IOs 1384 / RCV 26.05 Kb. / SND 148.02 Kb. ) 
+[20240217 09:22:58.038][Thread 27996][tSockDBServer] End TopClient Thread (27996) (IOs 77 / RCV 2.01 Kb. / SND 21.49 Kb. ) 
+[20240217 09:23:00.256][Thread 27136][tLockServerConn][STANDALONE] Begin LockConn Thread (27136,127.0.0.1) Location 12045 Type DBAPI
+[20240217 09:23:00.257][Thread 27136][tRecordLockServer][STANDALONE] Thread 27136 Create Notify node for location 12045
+[20240217 09:23:00.924][Thread 23124][tSockDBServer] Begin TopClient Thread (23124,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:23:00.932][Thread 23124][tSockDBServer] End TopClient Thread (23124) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240217 09:23:00.936][Thread 19972][tSockDBServer] Begin TopClient Thread (19972,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 09:23:37.382][Thread 15356][tSockDBServer] End TopClient Thread (15356) (IOs 201 / RCV 20.15 Kb. / SND 1.94 Kb. ) 
+[20240217 09:23:37.645][Thread 16580][tSockDBServer] End TopClient Thread (16580) (IOs 3441 / RCV 134.34 Kb. / SND 99.57 Kb. ) 
+[20240217 09:38:19.150][Thread 27836][tSockDBServer] End TopClient Thread (27836) (IOs 382537 / RCV 52.92 Mb. / SND 35.98 Mb. ) 
+[20240217 09:38:19.152][Thread 19972][tSockDBServer] End TopClient Thread (19972) (IOs 892 / RCV 14.72 Kb. / SND 375.56 Kb. ) 
+[20240217 09:38:22.683][Thread 27136][tLockServerConn][STANDALONE] End LockConn Thread (27136) Location 12045 (IOs 187 / RCV 400 bytes. / SND 564 bytes. )
+[20240217 09:38:22.684][Thread 27136][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 12045
+[20240217 10:16:28.814][Thread 17700][tMonitor] Begin DBMonitor Thread (17700,127.0.0.1,WinNT (x64))
+[20240217 10:16:28.816][Thread 17700][tMonitor] End DBMonitor Thread (17700)
+[20240217 10:16:28.820][Thread 20252][tSockDBServer] Begin TopClient Thread (20252,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:16:28.918][Thread 20252][tSockDBServer] End TopClient Thread (20252) (IOs 23 / RCV 1.44 Kb. / SND 1.17 Kb. ) 
+[20240217 10:16:29.003][Thread 27032][tSockDBServer] Begin TopClient Thread (27032,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:16:29.141][Thread 19012][tSockDBServer] Begin TopClient Thread (19012,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:16:29.155][Thread 19012][tSockDBServer] End TopClient Thread (19012) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240217 10:16:29.168][Thread 18464][tSockDBServer] Begin TopClient Thread (18464,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:16:29.473][Thread 27032][tSockDBServer] End TopClient Thread (27032) (IOs 27 / RCV 1.38 Kb. / SND 1.16 Kb. ) 
+[20240217 10:16:29.474][Thread 18464][tSockDBServer] End TopClient Thread (18464) (IOs 29 / RCV 1.41 Kb. / SND 7.78 Kb. ) 
+[20240217 10:17:43.727][Thread 26240][tSockDBServer] Begin TopClient Thread (26240,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:17:43.829][Thread 21064][tSockDBServer] Begin TopClient Thread (21064,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:17:43.843][Thread 21064][tSockDBServer] End TopClient Thread (21064) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240217 10:18:09.686][Thread 24232][tLockServerConn][STANDALONE] Begin LockConn Thread (24232,127.0.0.1) Location 22851 Type DBAPI
+[20240217 10:18:09.686][Thread 24232][tRecordLockServer][STANDALONE] Thread 24232 Create Notify node for location 22851
+[20240217 10:18:10.202][Thread 13988][tSockDBServer] Begin TopClient Thread (13988,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:18:10.213][Thread 13988][tSockDBServer] End TopClient Thread (13988) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240217 10:18:10.216][Thread 27896][tSockDBServer] Begin TopClient Thread (27896,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:19:25.561][Thread 26240][tSockDBServer] End TopClient Thread (26240) (IOs 1880 / RCV 49.46 Kb. / SND 520.19 Kb. ) 
+[20240217 10:19:25.561][Thread 27896][tSockDBServer] End TopClient Thread (27896) (IOs 184 / RCV 4.73 Kb. / SND 46.92 Kb. ) 
+[20240217 10:19:29.858][Thread 24232][tLockServerConn][STANDALONE] End LockConn Thread (24232) Location 22851 (IOs 19 / RCV 64 bytes. / SND 60 bytes. )
+[20240217 10:19:29.859][Thread 24232][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 22851
+[20240217 10:52:34.839][Thread 19640][tMonitor] Begin DBMonitor Thread (19640,127.0.0.1,WinNT (x64))
+[20240217 10:52:34.840][Thread 19640][tMonitor] End DBMonitor Thread (19640)
+[20240217 10:52:34.843][Thread 16252][tSockDBServer] Begin TopClient Thread (16252,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:34.935][Thread 16252][tSockDBServer] End TopClient Thread (16252) (IOs 23 / RCV 1.44 Kb. / SND 1.17 Kb. ) 
+[20240217 10:52:35.018][Thread 17936][tSockDBServer] Begin TopClient Thread (17936,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:35.133][Thread 27692][tSockDBServer] Begin TopClient Thread (27692,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:35.147][Thread 27692][tSockDBServer] End TopClient Thread (27692) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240217 10:52:35.158][Thread 25396][tSockDBServer] Begin TopClient Thread (25396,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:35.535][Thread 17936][tSockDBServer] End TopClient Thread (17936) (IOs 27 / RCV 1.38 Kb. / SND 1.16 Kb. ) 
+[20240217 10:52:35.536][Thread 25396][tSockDBServer] End TopClient Thread (25396) (IOs 29 / RCV 1.41 Kb. / SND 7.78 Kb. ) 
+[20240217 10:52:49.374][Thread 28632][tSockDBServer] Begin TopClient Thread (28632,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:49.480][Thread 14604][tSockDBServer] Begin TopClient Thread (14604,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:49.498][Thread 14604][tSockDBServer] End TopClient Thread (14604) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240217 10:52:49.582][Thread 26788][tSockDBServer] Begin TopClient Thread (26788,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:49.625][Thread 26788][tSockDBServer] End TopClient Thread (26788) (IOs 24 / RCV 1.35 Kb. / SND 1.13 Kb. ) 
+[20240217 10:52:49.634][Thread 08712][tSockDBServer] Begin TopClient Thread (8712,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:49.953][Thread 18100][tSockDBServer] Begin TopClient Thread (18100,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:49.966][Thread 18100][tSockDBServer] End TopClient Thread (18100) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240217 10:52:49.969][Thread 19404][tSockDBServer] Begin TopClient Thread (19404,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:52:51.436][Thread 08712][tSockDBServer] End TopClient Thread (8712) (IOs 1162 / RCV 16.58 Kb. / SND 128.82 Kb. ) 
+[20240217 10:52:51.437][Thread 19404][tSockDBServer] End TopClient Thread (19404) (IOs 67 / RCV 1.94 Kb. / SND 20.98 Kb. ) 
+[20240217 10:52:59.848][Thread 23600][tLockServerConn][STANDALONE] Begin LockConn Thread (23600,127.0.0.1) Location 29676 Type DBAPI
+[20240217 10:52:59.849][Thread 23600][tRecordLockServer][STANDALONE] Thread 23600 Create Notify node for location 29676
+[20240217 10:53:00.518][Thread 17820][tSockDBServer] Begin TopClient Thread (17820,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:53:00.530][Thread 17820][tSockDBServer] End TopClient Thread (17820) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240217 10:53:00.532][Thread 24556][tSockDBServer] Begin TopClient Thread (24556,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240217 10:53:36.246][Thread 28632][tSockDBServer] End TopClient Thread (28632) (IOs 1933 / RCV 50.74 Kb. / SND 521.69 Kb. ) 
+[20240217 10:53:36.246][Thread 24556][tSockDBServer] End TopClient Thread (24556) (IOs 180 / RCV 4.47 Kb. / SND 46.89 Kb. ) 
+[20240217 10:53:39.909][Thread 23600][tLockServerConn][STANDALONE] End LockConn Thread (23600) Location 29676 (IOs 11 / RCV 48 bytes. / SND 36 bytes. )
+[20240217 10:53:39.909][Thread 23600][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 29676
+[20240217 10:58:00.559][Thread 25008]
+
+Type YES [Enter] or SIM [Enter] (uppercase) to exit: [20240217 10:58:02.187][Thread 21704][BEGINLOG]
+[SHUTDOWN] DBAccess 4.2 Server...
+
+[ENDLOG]
+[20240217 10:58:02.189][Thread 21704]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     7873.89 Mb.   Free     4066.84 Mb.
+Paging file .....    24228.73 Mb.   Used    11586.00 Mb.   Free    12642.73 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4230.91 Mb.   Free 134213496.97 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       17.31 Mb.
+Paged Memory ....       24.66 Mb.
+-------------------------------------------------------------------------------
+
+
+--------------- Application Summary -------------------------------------------
+Total Connections ............: 32
+Active connections ...........: 0
+User connections .............: 0
+Maximum connections (Peak)....: 5
+Total Application Threads ....: 13
+Connection Status ............: ENABLED
+Current open tables ..........: 0
+Global Named Locks ...........: 0
+Connections in Procedure .....: 0
+Connections in Trace .........: 0
+Connections in SQLReplay .....: 0
+Connections in Transaction ...: 0
+
+-------------------------------------------------------------------------------
+
+[20240217 10:58:02.198][Thread 21704][INFO] [SHUTDOWN] Notifying shutdown to 12 thread(s)...
+[20240217 10:58:02.209][Thread 26040][tMonitorJob] End DBMonitor Active Thread.
+[20240218 14:49:37.286][Thread 11416]
+***  DBACCESS  ***
+* DBAccess 4.2 Server - Build 20230303 - Sep 29 2023 19:01:52
+* Revision: 6445
+* Build Version: 23.1.1.0
+
+[20240218 14:49:37.290][Thread 11416][BEGINLOG]
+DBAccess 4.2 Server Started - Build 20230303-20230929 - STANDALONE
+MultiDB Version - Windows [RELEASE] [SMARTHEAP] Version 11.6.1 [X86_64] - Version 23.1.1.0
+[ENDLOG]
+[20240218 14:49:37.926][Thread 11416]Main Application Thread .. [11416] PID [2680]
+[20240218 14:49:37.927][Thread 11416]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     7410.61 Mb.   Free     4530.13 Mb.
+Paging file .....    24228.73 Mb.   Used     9955.23 Mb.   Free    14273.50 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4206.57 Mb.   Free 134213521.30 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       13.95 Mb.
+Paged Memory ....       13.77 Mb.
+-------------------------------------------------------------------------------
+
+[20240218 14:49:37.930][Thread 11416]
+---------------- OS System Info -----------------------------------------------
+Windows 10 [Version 6.2.9200] 
+-------------------------------------------------------------------------------
+
+[20240218 14:49:37.932][Thread 11416]*** STARTING DBACCESS LOCK ENGINE WITH DEADLOCK CHECK DISABLED ***
+[20240218 14:49:37.934][Thread 11416][20240218 14:49:37.935][Thread 11416]SSL: Not using secure connections
+[20240218 14:49:37.949][Thread 04024][tMonitorJob] Start DBMonitor Active Thread.
+[20240218 14:49:37.952][Thread 11416][DBLICENSE] CPU Vendor [GenuineIntel]
+[20240218 14:49:37.954][Thread 11416][DBLICENSE] CPU String [Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz]
+[20240218 14:49:37.959][Thread 11416][DBLICENSE] 8 CPU(s) Logical Count.
+[20240218 14:49:37.960][Thread 11416][DBLICENSE] Intel CPU Detected.
+[20240218 14:49:37.962][Thread 11416][DBLICENSE] CPU Model [DETERMINED] Flags [01000]
+[20240218 14:49:37.964][Thread 11416][DBLICENSE] Hyper-Threading is supported.
+[20240218 14:49:37.968][Thread 11416][DBLICENSE] 4 Processor/Core Count.
+[20240218 14:49:37.969][Thread 11416][DBLICENSE] 4 Licenses required by CPUCount.
+[20240218 14:49:37.973][Thread 11416][DBLICENSE] [WARNING] Empty LicenseServer Configuration (Server []/ Port [0])
+
+[20240218 14:49:37.975][Thread 11416][DBLICENSE] DBAccess has NO LICENSE SERVER Configuration.
+[20240218 14:49:37.977][Thread 11416][DBLICENSE] Current License Mode [TOP_NO_LICENSE]
+[20240218 14:49:37.980][Thread 11416][DBACCESS] Starting DBAccess TCP Network Interface.
+[20240218 14:49:37.981][Thread 11416][INFO] [tTOPSockServer::Start] Listening port 7890 (default)
+[20240218 14:49:48.796][Thread 16740][tMonitor] Begin DBMonitor Thread (16740,127.0.0.1,WinNT (x64))
+[20240218 14:49:48.802][Thread 16740][tMonitor] End DBMonitor Thread (16740)
+[20240218 14:49:48.811][Thread 18892][tSockDBServer] Begin TopClient Thread (18892,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 14:49:48.817][Thread 18892][INFO] Connection [MSSQL/TOTVS_P1212310] using client library [odbc32.dll] (ODBC10)
+[20240218 14:49:49.197][Thread 18892][tDBServer::ConnectToDB] 
+--------------- Initial Connection Check-Up ---------------
+Database......: MSSQL
+Environment...: TOTVS_P1212310
+TableSpace....: 
+IndexSpace....: 
+Memo Type.....: VARBINARY(MAX)
+Clob Type.....: VARCHAR(MAX)
+Primary Key ..: CLUSTERED
+Compression ..: NONE
+DB Collation..: LATIN1_GENERAL_BIN
+DB Version....: 
+	Microsoft SQL Server 2019 (RTM-GDR) (KB5029377) - 15.0.2104.1 (X64) 
+	Aug 16 2023 00:09:21 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Education 10.0 <X64> (Build 19045: )
+SQL ServerName: MACEDO-8PL9YQ2\MAICOSOFT
+SQL Collation.: Latin1_General_BIN
+SQL Edition...: Developer Edition (64-bit)
+SQL Version...: 15.0.2104.1
+SQL P.Level...: RTM
+MARS .........: ENABLED
+DBMS Isolation: Read Uncommitted
+Schema as User: NO
+Lock timeout..: 0
+Opt.Recompile.: YES
+-----------------------------------------------------------
+
+--------------- ODBC Connection Check-Up ------------------
+ODBC Mapped Functions .....: 1.0
+ODBC DBMS Name.............: Microsoft SQL Server
+ODBC DBMS Version..........: 15.00.2104
+ODBC DBMS Database Name....: TOTVS_P1212310
+ODBC Data Source Name......: TOTVS_P1212310
+ODBC Server Name...........: MACEDO-8PL9YQ2\MAICOSOFT
+ODBC Driver Name...........: sqlncli11.dll
+ODBC Driver Version .......: 11.00.7001
+ODBC Support ODBC Version..: 03.80
+ODBC Connection Pooling ...: DISABLED
+ODBC Connection Mode ......: DSN
+-----------------------------------------------------------
+
+------------- Generic Connection Check-Up -----------------
+Prepared Stmt Cache .......: ENABLED
+Index Trace ...............: DISABLED
+ISAM Compatibility Mode ...: ENABLED
+Row Stamp Column ..........: DISABLED
+Automatic Stamp Adjust ....: DISABLED
+Row InsDt Column ..........: DISABLED
+Automatic InsDt Adjust ....: DISABLED
+View Implementation Type ..: 0
+Connection Access Mode ....: FULL (DEFAULT)
+Accept Outdated DBAPI .....: NO
+ThreadMin .................: 10
+ThreadInc .................: 5
+ThreadMax .................: 0
+Table Access Mode .........: READWRITE (DEFAULT)
+Set Isolation Level .......: Read UNCOMMITTED
+ISAM DefaultRowCount ......: 40
+ISAM FilteredRowCount .....: 250
+DB Unified Connection .....: DISABLED (LEGACY)
+Record Sequence Owner .....: DBACCESS (DEFAULT)
+Delete Operations .........: Using D_E_L_E_T_ (DEFAULT)
+Use Bind Operations .......: YES
+Seek with Bind Operations .: YES
+LOG Warning Messages ......: NO
+DB Warning Messages .......: NO
+Trim Right Spaces  ........: NO
+String Fields Unicode .....: NO (DEFAULT)
+Fields Accept Null ........: NO (DEFAULT)
+Use Large RECNO ...........: YES (DEFAULT)
+Use Lock in DB ............: NO
+DB LockTimeOut ............: UNLIMITED
+DEADLOCK EXIT .............: NO (DEFAULT)
+Operation Time Limit ......: 0.000 s.
+Trace Temporary Tables ....: NO (DEFAULT)
+MEMO Fields in Query ......: NO
+All Errors Diagnostic .....: NO (DEFAULT)
+String Field Type .........: VARCHAR
+Character Field Type ......: VARCHAR
+Maximum Record Lock Timer .: 0
+Use Large RECNO field .....: YES (DEFAULT)
+Inactive DBConn Release ...: DISABLED
+DB Connection Serialized...: NO
+Has Minimal Grants ........: YES
+Using Recommended Collation: YES
+-----------------------------------------------------------
+
+[20240218 14:49:49.292][Thread 18892][tSockDBServer] End TopClient Thread (18892) (IOs 23 / RCV 1.44 Kb. / SND 1.17 Kb. ) 
+[20240218 14:49:49.396][Thread 19264][tSockDBServer] Begin TopClient Thread (19264,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 14:49:49.587][Thread 11128][tSockDBServer] Begin TopClient Thread (11128,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 14:49:49.606][Thread 11128][tSockDBServer] End TopClient Thread (11128) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240218 14:49:49.624][Thread 16312][tSockDBServer] Begin TopClient Thread (16312,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 14:49:50.113][Thread 19264][tSockDBServer] End TopClient Thread (19264) (IOs 27 / RCV 1.38 Kb. / SND 1.16 Kb. ) 
+[20240218 14:49:50.119][Thread 16312][tSockDBServer] End TopClient Thread (16312) (IOs 29 / RCV 1.41 Kb. / SND 7.78 Kb. ) 
+[20240218 14:57:10.725][Thread 01040]
+
+Type YES [Enter] or SIM [Enter] (uppercase) to exit: [20240218 14:57:13.457][Thread 11416][BEGINLOG]
+[SHUTDOWN] DBAccess 4.2 Server...
+
+[ENDLOG]
+[20240218 14:57:13.460][Thread 11416]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     6045.14 Mb.   Free     5895.59 Mb.
+Paging file .....    24228.73 Mb.   Used     8236.97 Mb.   Free    15991.76 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4229.96 Mb.   Free 134213497.92 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       20.95 Mb.
+Paged Memory ....       20.96 Mb.
+-------------------------------------------------------------------------------
+
+
+--------------- Application Summary -------------------------------------------
+Total Connections ............: 5
+Active connections ...........: 0
+User connections .............: 0
+Maximum connections (Peak)....: 2
+Total Application Threads ....: 13
+Connection Status ............: ENABLED
+Current open tables ..........: 0
+Global Named Locks ...........: 0
+Connections in Procedure .....: 0
+Connections in Trace .........: 0
+Connections in SQLReplay .....: 0
+Connections in Transaction ...: 0
+
+-------------------------------------------------------------------------------
+
+[20240218 14:57:13.471][Thread 11416][INFO] [SHUTDOWN] Notifying shutdown to 12 thread(s)...
+[20240218 14:57:13.981][Thread 11416][INFO] [SHUTDOWN] Notifying shutdown to 2 thread(s)...
+[20240218 14:57:14.447][Thread 04024][tMonitorJob] End DBMonitor Active Thread.
+[20240218 15:00:36.620][Thread 02164]
+***  DBACCESS  ***
+* DBAccess 4.2 Server - Build 20230303 - Sep 29 2023 19:01:52
+* Revision: 6445
+* Build Version: 23.1.1.0
+
+[20240218 15:00:36.625][Thread 02164][BEGINLOG]
+DBAccess 4.2 Server Started - Build 20230303-20230929 - STANDALONE
+MultiDB Version - Windows [RELEASE] [SMARTHEAP] Version 11.6.1 [X86_64] - Version 23.1.1.0
+[ENDLOG]
+[20240218 15:00:37.184][Thread 02164]Main Application Thread .. [2164] PID [2844]
+[20240218 15:00:37.185][Thread 02164]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     5882.99 Mb.   Free     6057.74 Mb.
+Paging file .....    24228.73 Mb.   Used     8181.42 Mb.   Free    16047.31 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4205.98 Mb.   Free 134213521.90 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       14.00 Mb.
+Paged Memory ....       13.60 Mb.
+-------------------------------------------------------------------------------
+
+[20240218 15:00:37.188][Thread 02164]
+---------------- OS System Info -----------------------------------------------
+Windows 10 [Version 6.2.9200] 
+-------------------------------------------------------------------------------
+
+[20240218 15:00:37.189][Thread 02164]*** STARTING DBACCESS LOCK ENGINE WITH DEADLOCK CHECK DISABLED ***
+[20240218 15:00:37.192][Thread 02164][20240218 15:00:37.193][Thread 02164]SSL: Not using secure connections
+[20240218 15:00:37.195][Thread 00560][tMonitorJob] Start DBMonitor Active Thread.
+[20240218 15:00:37.197][Thread 02164][DBLICENSE] CPU Vendor [GenuineIntel]
+[20240218 15:00:37.198][Thread 02164][DBLICENSE] CPU String [Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz]
+[20240218 15:00:37.199][Thread 02164][DBLICENSE] 8 CPU(s) Logical Count.
+[20240218 15:00:37.200][Thread 02164][DBLICENSE] Intel CPU Detected.
+[20240218 15:00:37.201][Thread 02164][DBLICENSE] CPU Model [DETERMINED] Flags [01000]
+[20240218 15:00:37.202][Thread 02164][DBLICENSE] Hyper-Threading is supported.
+[20240218 15:00:37.203][Thread 02164][DBLICENSE] 4 Processor/Core Count.
+[20240218 15:00:37.204][Thread 02164][DBLICENSE] 4 Licenses required by CPUCount.
+[20240218 15:00:37.205][Thread 02164][DBLICENSE] [WARNING] Empty LicenseServer Configuration (Server []/ Port [0])
+
+[20240218 15:00:37.209][Thread 02164][DBLICENSE] DBAccess has NO LICENSE SERVER Configuration.
+[20240218 15:00:37.212][Thread 02164][DBLICENSE] Current License Mode [TOP_NO_LICENSE]
+[20240218 15:00:37.215][Thread 02164][DBACCESS] Starting DBAccess TCP Network Interface.
+[20240218 15:00:37.217][Thread 02164][INFO] [tTOPSockServer::Start] Listening port 7890 (default)
+[20240218 15:00:45.675][Thread 11156][tMonitor] Begin DBMonitor Thread (11156,127.0.0.1,WinNT (x64))
+[20240218 15:00:45.677][Thread 11156][tMonitor] End DBMonitor Thread (11156)
+[20240218 15:00:45.681][Thread 02232][tSockDBServer] Begin TopClient Thread (2232,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:00:45.686][Thread 02232][INFO] Connection [MSSQL/TOTVS_P1212310] using client library [odbc32.dll] (ODBC10)
+[20240218 15:00:45.922][Thread 02232][tDBServer::ConnectToDB] 
+--------------- Initial Connection Check-Up ---------------
+Database......: MSSQL
+Environment...: TOTVS_P1212310
+TableSpace....: 
+IndexSpace....: 
+Memo Type.....: VARBINARY(MAX)
+Clob Type.....: VARCHAR(MAX)
+Primary Key ..: CLUSTERED
+Compression ..: NONE
+DB Collation..: LATIN1_GENERAL_BIN
+DB Version....: 
+	Microsoft SQL Server 2019 (RTM-GDR) (KB5029377) - 15.0.2104.1 (X64) 
+	Aug 16 2023 00:09:21 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Education 10.0 <X64> (Build 19045: )
+SQL ServerName: MACEDO-8PL9YQ2\MAICOSOFT
+SQL Collation.: Latin1_General_BIN
+SQL Edition...: Developer Edition (64-bit)
+SQL Version...: 15.0.2104.1
+SQL P.Level...: RTM
+MARS .........: ENABLED
+DBMS Isolation: Read Uncommitted
+Schema as User: NO
+Lock timeout..: 0
+Opt.Recompile.: YES
+-----------------------------------------------------------
+
+--------------- ODBC Connection Check-Up ------------------
+ODBC Mapped Functions .....: 1.0
+ODBC DBMS Name.............: Microsoft SQL Server
+ODBC DBMS Version..........: 15.00.2104
+ODBC DBMS Database Name....: TOTVS_P1212310
+ODBC Data Source Name......: TOTVS_P1212310
+ODBC Server Name...........: MACEDO-8PL9YQ2\MAICOSOFT
+ODBC Driver Name...........: sqlncli11.dll
+ODBC Driver Version .......: 11.00.7001
+ODBC Support ODBC Version..: 03.80
+ODBC Connection Pooling ...: DISABLED
+ODBC Connection Mode ......: DSN
+-----------------------------------------------------------
+
+------------- Generic Connection Check-Up -----------------
+Prepared Stmt Cache .......: ENABLED
+Index Trace ...............: DISABLED
+ISAM Compatibility Mode ...: ENABLED
+Row Stamp Column ..........: DISABLED
+Automatic Stamp Adjust ....: DISABLED
+Row InsDt Column ..........: DISABLED
+Automatic InsDt Adjust ....: DISABLED
+View Implementation Type ..: 0
+Connection Access Mode ....: FULL (DEFAULT)
+Accept Outdated DBAPI .....: NO
+ThreadMin .................: 10
+ThreadInc .................: 5
+ThreadMax .................: 0
+Table Access Mode .........: READWRITE (DEFAULT)
+Set Isolation Level .......: Read UNCOMMITTED
+ISAM DefaultRowCount ......: 40
+ISAM FilteredRowCount .....: 250
+DB Unified Connection .....: DISABLED (LEGACY)
+Record Sequence Owner .....: DBACCESS (DEFAULT)
+Delete Operations .........: Using D_E_L_E_T_ (DEFAULT)
+Use Bind Operations .......: YES
+Seek with Bind Operations .: YES
+LOG Warning Messages ......: NO
+DB Warning Messages .......: NO
+Trim Right Spaces  ........: NO
+String Fields Unicode .....: NO (DEFAULT)
+Fields Accept Null ........: NO (DEFAULT)
+Use Large RECNO ...........: YES (DEFAULT)
+Use Lock in DB ............: NO
+DB LockTimeOut ............: UNLIMITED
+DEADLOCK EXIT .............: NO (DEFAULT)
+Operation Time Limit ......: 0.000 s.
+Trace Temporary Tables ....: NO (DEFAULT)
+MEMO Fields in Query ......: NO
+All Errors Diagnostic .....: NO (DEFAULT)
+String Field Type .........: VARCHAR
+Character Field Type ......: VARCHAR
+Maximum Record Lock Timer .: 0
+Use Large RECNO field .....: YES (DEFAULT)
+Inactive DBConn Release ...: DISABLED
+DB Connection Serialized...: NO
+Has Minimal Grants ........: YES
+Using Recommended Collation: YES
+-----------------------------------------------------------
+
+[20240218 15:00:46.025][Thread 02232][tSockDBServer] End TopClient Thread (2232) (IOs 23 / RCV 1.44 Kb. / SND 1.17 Kb. ) 
+[20240218 15:00:46.171][Thread 08868][tSockDBServer] Begin TopClient Thread (8868,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:00:46.448][Thread 11224][tSockDBServer] Begin TopClient Thread (11224,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:00:46.483][Thread 11224][tSockDBServer] End TopClient Thread (11224) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240218 15:00:46.514][Thread 06948][tSockDBServer] Begin TopClient Thread (6948,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:00:47.038][Thread 08868][tSockDBServer] End TopClient Thread (8868) (IOs 27 / RCV 1.38 Kb. / SND 1.15 Kb. ) 
+[20240218 15:00:47.039][Thread 06948][tSockDBServer] End TopClient Thread (6948) (IOs 29 / RCV 1.41 Kb. / SND 7.78 Kb. ) 
+[20240218 15:04:06.246][Thread 18404][tSockDBServer] Begin TopClient Thread (18404,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:04:10.473][Thread 10188][tSockDBServer] Begin TopClient Thread (10188,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:04:10.533][Thread 10188][tSockDBServer] End TopClient Thread (10188) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240218 15:04:10.543][Thread 19176][tSockDBServer] Begin TopClient Thread (19176,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:04:11.427][Thread 19136][tLockServerConn][STANDALONE] Begin LockConn Thread (19136,127.0.0.1) Location 13359 Type DBAPI
+[20240218 15:04:11.430][Thread 19136][tRecordLockServer][STANDALONE] Thread 19136 Create Notify node for location 13359
+[20240218 15:04:13.240][Thread 18404][tSockDBServer] End TopClient Thread (18404) (IOs 1216 / RCV 32.78 Kb. / SND 92.42 Kb. ) 
+[20240218 15:04:13.243][Thread 19176][tSockDBServer] End TopClient Thread (19176) (IOs 29 / RCV 1.52 Kb. / SND 1.64 Kb. ) 
+[20240218 15:04:16.447][Thread 19136][tLockServerConn][STANDALONE] End LockConn Thread (19136) Location 13359 (IOs 4 / RCV 34 bytes. / SND 15 bytes. )
+[20240218 15:04:16.450][Thread 19136][tRecordLockServer][STANDALONE] Deleteting Notify Node to Cache Location 13359
+[20240218 15:06:40.225][Thread 05868][tSockDBServer] Begin TopClient Thread (5868,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:40.650][Thread 07752][tSockDBServer] Begin TopClient Thread (7752,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:40.705][Thread 07752][tSockDBServer] End TopClient Thread (7752) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240218 15:06:40.907][Thread 05588][tSockDBServer] Begin TopClient Thread (5588,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:40.998][Thread 13264][tSockDBServer] Begin TopClient Thread (13264,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:41.049][Thread 05588][tSockDBServer] End TopClient Thread (5588) (IOs 24 / RCV 1.35 Kb. / SND 1.13 Kb. ) 
+[20240218 15:06:41.177][Thread 18236][tSockDBServer] Begin TopClient Thread (18236,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:41.207][Thread 18236][tSockDBServer] End TopClient Thread (18236) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240218 15:06:41.233][Thread 03316][tSockDBServer] Begin TopClient Thread (3316,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:41.448][Thread 12476][tSockDBServer] Begin TopClient Thread (12476,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:42.400][Thread 16320][tSockDBServer] Begin TopClient Thread (16320,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:42.429][Thread 16320][tSockDBServer] End TopClient Thread (16320) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240218 15:06:42.439][Thread 11596][tSockDBServer] Begin TopClient Thread (11596,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:06:45.980][Thread 12476][tMSSQLConnection::GetFieldDefValue] Unknown field type M
+[20240218 15:06:47.805][Thread 12476][tSockDBServer] End TopClient Thread (12476) (IOs 1378 / RCV 25.61 Kb. / SND 147.13 Kb. ) 
+[20240218 15:06:47.806][Thread 11596][tSockDBServer] End TopClient Thread (11596) (IOs 77 / RCV 2.01 Kb. / SND 21.49 Kb. ) 
+[20240218 15:07:12.247][Thread 10504][tLockServerConn][STANDALONE] Begin LockConn Thread (10504,127.0.0.1) Location 13950 Type DBAPI
+[20240218 15:07:12.250][Thread 10504][tRecordLockServer][STANDALONE] Thread 10504 Create Notify node for location 13950
+[20240218 15:07:14.418][Thread 04368][tSockDBServer] Begin TopClient Thread (4368,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:07:14.448][Thread 04368][tSockDBServer] End TopClient Thread (4368) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240218 15:07:14.461][Thread 04216][tSockDBServer] Begin TopClient Thread (4216,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:07:25.083][Thread 11372][tSockDBServer] Begin TopClient Thread (11372,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:07:26.090][Thread 07408][tSockDBServer] Begin TopClient Thread (7408,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:07:26.120][Thread 07408][tSockDBServer] End TopClient Thread (7408) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240218 15:07:26.321][Thread 13296][tSockDBServer] Begin TopClient Thread (13296,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:07:26.344][Thread 13296][tSockDBServer] End TopClient Thread (13296) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240218 15:07:26.352][Thread 02676][tSockDBServer] Begin TopClient Thread (2676,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:07:44.455][Thread 13264][tSockDBServer] End TopClient Thread (13264) (IOs 201 / RCV 20.15 Kb. / SND 1.94 Kb. ) 
+[20240218 15:07:44.762][Thread 03316][tSockDBServer] End TopClient Thread (3316) (IOs 3447 / RCV 134.53 Kb. / SND 100.36 Kb. ) 
+[20240218 15:09:55.110][Thread 05868][tSockDBServer] End TopClient Thread (5868) (IOs 5115 / RCV 161.22 Kb. / SND 1.92 Mb. ) 
+[20240218 15:09:55.111][Thread 04216][tSockDBServer] End TopClient Thread (4216) (IOs 1747 / RCV 24.89 Kb. / SND 1.51 Mb. ) 
+[20240218 15:13:49.213][Thread 12472][tSockDBServer] Begin TopClient Thread (12472,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:13:49.285][Thread 13616][tSockDBServer] Begin TopClient Thread (13616,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:13:49.297][Thread 13616][tSockDBServer] End TopClient Thread (13616) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240218 15:13:57.483][Thread 03136][tSockDBServer] Begin TopClient Thread (3136,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:13:57.493][Thread 03136][tSockDBServer] End TopClient Thread (3136) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240218 15:13:57.495][Thread 18624][tSockDBServer] Begin TopClient Thread (18624,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:20:15.738][Thread 02932][tSockDBServer] Begin TopClient Thread (2932,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:20:15.809][Thread 11428][tSockDBServer] Begin TopClient Thread (11428,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:20:15.823][Thread 11428][tSockDBServer] End TopClient Thread (11428) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240218 15:20:17.008][Thread 06928][tSockDBServer] Begin TopClient Thread (6928,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 15:20:17.018][Thread 06928][tSockDBServer] End TopClient Thread (6928) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240218 15:20:17.021][Thread 16124][tSockDBServer] Begin TopClient Thread (16124,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240218 17:44:02.975][Thread 11372][tSockDBServer] End TopClient Thread (11372) (IOs 84946 / RCV 105.44 Mb. / SND 9.93 Mb. ) 
+[20240218 17:44:02.976][Thread 02676][tSockDBServer] End TopClient Thread (2676) (IOs 56 / RCV 1.80 Kb. / SND 8.92 Kb. ) 
+[20240218 17:44:03.489][Thread 02932][tSockDBServer] End TopClient Thread (2932) (IOs 2737 / RCV 80.91 Kb. / SND 597.38 Kb. ) 
+[20240218 17:44:03.490][Thread 16124][tSockDBServer] End TopClient Thread (16124) (IOs 575 / RCV 8.42 Kb. / SND 282.41 Kb. ) 
+[20240218 17:44:04.799][Thread 15820]
+
+Type YES [Enter] or SIM [Enter] (uppercase) to exit: [20240218 17:44:06.471][Thread 12472][tSockDBServer] End TopClient Thread (12472) (IOs 1951 / RCV 51.82 Kb. / SND 824.30 Kb. ) 
+[20240218 17:44:06.472][Thread 18624][tSockDBServer] End TopClient Thread (18624) (IOs 210 / RCV 5.85 Kb. / SND 70.08 Kb. ) 
+[20240218 17:44:06.945][Thread 02164][BEGINLOG]
+[SHUTDOWN] DBAccess 4.2 Server...
+
+[ENDLOG]
+[20240218 17:44:06.948][Thread 02164]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     7085.68 Mb.   Free     4855.05 Mb.
+Paging file .....    24228.73 Mb.   Used     8779.30 Mb.   Free    15449.43 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4242.82 Mb.   Free 134213485.06 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       27.71 Mb.
+Paged Memory ....       30.14 Mb.
+-------------------------------------------------------------------------------
+
+
+--------------- Application Summary -------------------------------------------
+Total Connections ............: 31
+Active connections ...........: 0
+User connections .............: 0
+Maximum connections (Peak)....: 6
+Total Application Threads ....: 13
+Connection Status ............: ENABLED
+Current open tables ..........: 0
+Global Named Locks ...........: 154
+Connections in Procedure .....: 0
+Connections in Trace .........: 0
+Connections in SQLReplay .....: 0
+Connections in Transaction ...: 0
+
+-------------------------------------------------------------------------------
+
+[20240218 17:44:06.953][Thread 02164][INFO] [SHUTDOWN] Notifying shutdown to 11 thread(s)...
+[20240218 17:44:07.414][Thread 00560][tMonitorJob] End DBMonitor Active Thread.
+[20240218 17:44:07.461][Thread 02164][INFO] [SHUTDOWN] Notifying shutdown to 1 thread(s)...
+[20240218 17:44:08.492][Thread 02164][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240218 17:44:09.008][Thread 02164][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240218 17:44:09.523][Thread 02164][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240218 17:44:10.039][Thread 02164][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240218 17:44:10.554][Thread 02164][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240218 17:44:11.070][Thread 02164][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240218 17:44:11.446][Thread 10504][BEGINLOG]
+Thread (10504) communication failure. ( snd : -1, buffer size : 7 )
+[ENDLOG]
+[20240221 20:11:32.021][Thread 19204]
+***  DBACCESS  ***
+* DBAccess 4.2 Server - Build 20230303 - Sep 29 2023 19:01:52
+* Revision: 6445
+* Build Version: 23.1.1.0
+
+[20240221 20:11:32.026][Thread 19204][BEGINLOG]
+DBAccess 4.2 Server Started - Build 20230303-20230929 - STANDALONE
+MultiDB Version - Windows [RELEASE] [SMARTHEAP] Version 11.6.1 [X86_64] - Version 23.1.1.0
+[ENDLOG]
+[20240221 20:11:32.406][Thread 19204]Main Application Thread .. [19204] PID [10532]
+[20240221 20:11:32.406][Thread 19204]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     5484.91 Mb.   Free     6455.82 Mb.
+Paging file .....    13732.73 Mb.   Used     6247.48 Mb.   Free     7485.25 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4202.57 Mb.   Free 134213525.30 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       14.44 Mb.
+Paged Memory ....       13.50 Mb.
+-------------------------------------------------------------------------------
+
+[20240221 20:11:32.408][Thread 19204]
+---------------- OS System Info -----------------------------------------------
+Windows 10 [Version 6.2.9200] 
+-------------------------------------------------------------------------------
+
+[20240221 20:11:32.408][Thread 19204]*** STARTING DBACCESS LOCK ENGINE WITH DEADLOCK CHECK DISABLED ***
+[20240221 20:11:32.410][Thread 19204][20240221 20:11:32.411][Thread 19204]SSL: Not using secure connections
+[20240221 20:11:32.413][Thread 08232][tMonitorJob] Start DBMonitor Active Thread.
+[20240221 20:11:32.414][Thread 19204][DBLICENSE] CPU Vendor [GenuineIntel]
+[20240221 20:11:32.415][Thread 19204][DBLICENSE] CPU String [Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz]
+[20240221 20:11:32.416][Thread 19204][DBLICENSE] 8 CPU(s) Logical Count.
+[20240221 20:11:32.417][Thread 19204][DBLICENSE] Intel CPU Detected.
+[20240221 20:11:32.418][Thread 19204][DBLICENSE] CPU Model [DETERMINED] Flags [01000]
+[20240221 20:11:32.419][Thread 19204][DBLICENSE] Hyper-Threading is supported.
+[20240221 20:11:32.419][Thread 19204][DBLICENSE] 4 Processor/Core Count.
+[20240221 20:11:32.421][Thread 19204][DBLICENSE] 4 Licenses required by CPUCount.
+[20240221 20:11:32.425][Thread 19204][DBLICENSE] [WARNING] Empty LicenseServer Configuration (Server []/ Port [0])
+
+[20240221 20:11:32.427][Thread 19204][DBLICENSE] DBAccess has NO LICENSE SERVER Configuration.
+[20240221 20:11:32.429][Thread 19204][DBLICENSE] Current License Mode [TOP_NO_LICENSE]
+[20240221 20:11:32.431][Thread 19204][DBACCESS] Starting DBAccess TCP Network Interface.
+[20240221 20:11:32.433][Thread 19204][INFO] [tTOPSockServer::Start] Listening port 7890 (default)
+[20240221 20:11:39.362][Thread 18656][tMonitor] Begin DBMonitor Thread (18656,127.0.0.1,WinNT (x64))
+[20240221 20:11:39.364][Thread 18656][tMonitor] End DBMonitor Thread (18656)
+[20240221 20:11:39.368][Thread 11168][tSockDBServer] Begin TopClient Thread (11168,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:11:39.371][Thread 11168][INFO] Connection [MSSQL/TOTVS_P1212310] using client library [odbc32.dll] (ODBC10)
+[20240221 20:11:39.540][Thread 11168][tDBServer::ConnectToDB] 
+--------------- Initial Connection Check-Up ---------------
+Database......: MSSQL
+Environment...: TOTVS_P1212310
+TableSpace....: 
+IndexSpace....: 
+Memo Type.....: VARBINARY(MAX)
+Clob Type.....: VARCHAR(MAX)
+Primary Key ..: CLUSTERED
+Compression ..: NONE
+DB Collation..: LATIN1_GENERAL_BIN
+DB Version....: 
+	Microsoft SQL Server 2019 (RTM-GDR) (KB5029377) - 15.0.2104.1 (X64) 
+	Aug 16 2023 00:09:21 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Education 10.0 <X64> (Build 19045: )
+SQL ServerName: MACEDO-8PL9YQ2\MAICOSOFT
+SQL Collation.: Latin1_General_BIN
+SQL Edition...: Developer Edition (64-bit)
+SQL Version...: 15.0.2104.1
+SQL P.Level...: RTM
+MARS .........: ENABLED
+DBMS Isolation: Read Uncommitted
+Schema as User: NO
+Lock timeout..: 0
+Opt.Recompile.: YES
+-----------------------------------------------------------
+
+--------------- ODBC Connection Check-Up ------------------
+ODBC Mapped Functions .....: 1.0
+ODBC DBMS Name.............: Microsoft SQL Server
+ODBC DBMS Version..........: 15.00.2104
+ODBC DBMS Database Name....: TOTVS_P1212310
+ODBC Data Source Name......: TOTVS_P1212310
+ODBC Server Name...........: MACEDO-8PL9YQ2\MAICOSOFT
+ODBC Driver Name...........: sqlncli11.dll
+ODBC Driver Version .......: 11.00.7001
+ODBC Support ODBC Version..: 03.80
+ODBC Connection Pooling ...: DISABLED
+ODBC Connection Mode ......: DSN
+-----------------------------------------------------------
+
+------------- Generic Connection Check-Up -----------------
+Prepared Stmt Cache .......: ENABLED
+Index Trace ...............: DISABLED
+ISAM Compatibility Mode ...: ENABLED
+Row Stamp Column ..........: DISABLED
+Automatic Stamp Adjust ....: DISABLED
+Row InsDt Column ..........: DISABLED
+Automatic InsDt Adjust ....: DISABLED
+View Implementation Type ..: 0
+Connection Access Mode ....: FULL (DEFAULT)
+Accept Outdated DBAPI .....: NO
+ThreadMin .................: 10
+ThreadInc .................: 5
+ThreadMax .................: 0
+Table Access Mode .........: READWRITE (DEFAULT)
+Set Isolation Level .......: Read UNCOMMITTED
+ISAM DefaultRowCount ......: 40
+ISAM FilteredRowCount .....: 250
+DB Unified Connection .....: DISABLED (LEGACY)
+Record Sequence Owner .....: DBACCESS (DEFAULT)
+Delete Operations .........: Using D_E_L_E_T_ (DEFAULT)
+Use Bind Operations .......: YES
+Seek with Bind Operations .: YES
+LOG Warning Messages ......: NO
+DB Warning Messages .......: NO
+Trim Right Spaces  ........: NO
+String Fields Unicode .....: NO (DEFAULT)
+Fields Accept Null ........: NO (DEFAULT)
+Use Large RECNO ...........: YES (DEFAULT)
+Use Lock in DB ............: NO
+DB LockTimeOut ............: UNLIMITED
+DEADLOCK EXIT .............: NO (DEFAULT)
+Operation Time Limit ......: 0.000 s.
+Trace Temporary Tables ....: NO (DEFAULT)
+MEMO Fields in Query ......: NO
+All Errors Diagnostic .....: NO (DEFAULT)
+String Field Type .........: VARCHAR
+Character Field Type ......: VARCHAR
+Maximum Record Lock Timer .: 0
+Use Large RECNO field .....: YES (DEFAULT)
+Inactive DBConn Release ...: DISABLED
+DB Connection Serialized...: NO
+Has Minimal Grants ........: YES
+Using Recommended Collation: YES
+-----------------------------------------------------------
+
+[20240221 20:11:39.605][Thread 11168][tSockDBServer] End TopClient Thread (11168) (IOs 23 / RCV 1.44 Kb. / SND 1.17 Kb. ) 
+[20240221 20:11:39.688][Thread 13808][tSockDBServer] Begin TopClient Thread (13808,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:11:39.854][Thread 01420][tSockDBServer] Begin TopClient Thread (1420,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:11:39.868][Thread 01420][tSockDBServer] End TopClient Thread (1420) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240221 20:11:39.882][Thread 19328][tSockDBServer] Begin TopClient Thread (19328,127.0.0.1:1290,MSSQL/TOTVS_P1212310,totvstec_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:11:40.286][Thread 13808][tSockDBServer] End TopClient Thread (13808) (IOs 27 / RCV 1.38 Kb. / SND 1.16 Kb. ) 
+[20240221 20:11:40.286][Thread 19328][tSockDBServer] End TopClient Thread (19328) (IOs 29 / RCV 1.41 Kb. / SND 7.78 Kb. ) 
+[20240221 20:12:29.223][Thread 07244][tSockDBServer] Begin TopClient Thread (7244,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:29.339][Thread 12580][tSockDBServer] Begin TopClient Thread (12580,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:29.355][Thread 12580][tSockDBServer] End TopClient Thread (12580) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240221 20:12:29.448][Thread 10756][tSockDBServer] Begin TopClient Thread (10756,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:29.484][Thread 07856][tSockDBServer] Begin TopClient Thread (7856,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:29.505][Thread 10756][tSockDBServer] End TopClient Thread (10756) (IOs 24 / RCV 1.35 Kb. / SND 1.13 Kb. ) 
+[20240221 20:12:29.570][Thread 15280][tSockDBServer] Begin TopClient Thread (15280,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:29.583][Thread 15280][tSockDBServer] End TopClient Thread (15280) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240221 20:12:29.594][Thread 06808][tSockDBServer] Begin TopClient Thread (6808,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo_,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:29.625][Thread 08724][tSockDBServer] Begin TopClient Thread (8724,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:29.978][Thread 02364][tSockDBServer] Begin TopClient Thread (2364,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:29.991][Thread 02364][tSockDBServer] End TopClient Thread (2364) (IOs 21 / RCV 1.33 Kb. / SND 1.12 Kb. ) 
+[20240221 20:12:29.996][Thread 09832][tSockDBServer] Begin TopClient Thread (9832,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo__,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:31.605][Thread 08724][tMSSQLConnection::GetFieldDefValue] Unknown field type M
+[20240221 20:12:32.172][Thread 08724][tSockDBServer] End TopClient Thread (8724) (IOs 1389 / RCV 25.76 Kb. / SND 150.02 Kb. ) 
+[20240221 20:12:32.172][Thread 09832][tSockDBServer] End TopClient Thread (9832) (IOs 77 / RCV 2.01 Kb. / SND 21.48 Kb. ) 
+[20240221 20:12:38.831][Thread 04676][tLockServerConn][STANDALONE] Begin LockConn Thread (4676,127.0.0.1) Location 8259 Type DBAPI
+[20240221 20:12:38.832][Thread 04676][tRecordLockServer][STANDALONE] Thread 4676 Create Notify node for location 8259
+[20240221 20:12:39.503][Thread 18784][tSockDBServer] Begin TopClient Thread (18784,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:12:39.514][Thread 18784][tSockDBServer] End TopClient Thread (18784) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240221 20:12:39.517][Thread 19368][tSockDBServer] Begin TopClient Thread (19368,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:13:31.901][Thread 07856][tSockDBServer] End TopClient Thread (7856) (IOs 201 / RCV 20.15 Kb. / SND 1.93 Kb. ) 
+[20240221 20:13:32.168][Thread 06808][tSockDBServer] End TopClient Thread (6808) (IOs 3447 / RCV 134.53 Kb. / SND 100.36 Kb. ) 
+[20240221 20:13:54.678][Thread 03284][tSockDBServer] Begin TopClient Thread (3284,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:13:54.748][Thread 07288][tSockDBServer] Begin TopClient Thread (7288,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:13:54.761][Thread 07288][tSockDBServer] End TopClient Thread (7288) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240221 20:14:00.895][Thread 14300][tSockDBServer] Begin TopClient Thread (14300,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:14:00.904][Thread 14300][tSockDBServer] End TopClient Thread (14300) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240221 20:14:00.907][Thread 16188][tSockDBServer] Begin TopClient Thread (16188,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:14:14.555][Thread 01800][tSockDBServer] Begin TopClient Thread (1800,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:14:14.623][Thread 18228][tSockDBServer] Begin TopClient Thread (18228,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:14:14.637][Thread 18228][tSockDBServer] End TopClient Thread (18228) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240221 20:14:15.626][Thread 17340][tSockDBServer] Begin TopClient Thread (17340,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:14:15.638][Thread 17340][tSockDBServer] End TopClient Thread (17340) (IOs 21 / RCV 1.35 Kb. / SND 1.12 Kb. ) 
+[20240221 20:14:15.640][Thread 17888][tSockDBServer] Begin TopClient Thread (17888,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:14:35.755][Thread 01800][tSockDBServer] End TopClient Thread (1800) (IOs 3592 / RCV 116.40 Kb. / SND 1.10 Mb. ) 
+[20240221 20:14:35.756][Thread 17888][tSockDBServer] End TopClient Thread (17888) (IOs 869 / RCV 14.23 Kb. / SND 494.29 Kb. ) 
+[20240221 20:14:44.982][Thread 05828][tSockDBServer] Begin TopClient Thread (5828,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:14:45.050][Thread 14564][tSockDBServer] Begin TopClient Thread (14564,127.0.0.1:1290,MSSQL/TOTVS_P1212310,maicon.macedo,maicon.macedo,MACEDO-8PL9YQ2,DBApi 20230303-20230929)
+[20240221 20:14:45.064][Thread 14564][tSockDBServer] End TopClient Thread (14564) (IOs 21 / RCV 1.34 Kb. / SND 1.12 Kb. ) 
+[20240221 20:15:27.683][Thread 07244][tSockDBServer] End TopClient Thread (7244) (IOs 1887 / RCV 49.66 Kb. / SND 520.07 Kb. ) 
+[20240221 20:15:27.683][Thread 19368][tSockDBServer] End TopClient Thread (19368) (IOs 182 / RCV 4.59 Kb. / SND 46.89 Kb. ) 
+[20240221 20:15:53.436][Thread 14684]
+
+Type YES [Enter] or SIM [Enter] (uppercase) to exit: [20240221 20:15:55.100][Thread 19204][BEGINLOG]
+[SHUTDOWN] DBAccess 4.2 Server...
+
+[ENDLOG]
+[20240221 20:15:55.104][Thread 19204][tDBServer::Terminate] Thread (3284) KILLED / TERMINATED - Thread ID [3284]	User [maicon.macedo]	IO [1914]	Tables [35]	MaxTables [38]	Comment []	SP [ ]	Traced [No]	SQLReplay [No]	InTran [No]	DBEnv [MSSQL/TOTVS_P1212310]	DBThread [(SPID 61,62,72)]	Started [21/02/2024 20:13:54]	IP [127.0.0.1:1290]	IDLE [102 s.]	InTransact [ ]	Memory [0]	Running []	RCV [52751]	SND [843858]	
+[20240221 20:15:55.107][Thread 19204][tDBServer::Terminate] Thread (16188) KILLED / TERMINATED - Thread ID [16188]	User [Administrador]	IO [201]	Tables [7]	MaxTables [7]	Comment []	SP [ ]	Traced [No]	SQLReplay [No]	InTran [No]	DBEnv [MSSQL/TOTVS_P1212310]	DBThread [(SPID 66)]	Started [21/02/2024 20:14:00]	IP [127.0.0.1:1290]	IDLE [102 s.]	InTransact [ ]	Memory [0]	Running []	RCV [5959]	SND [71566]	
+[20240221 20:15:55.108][Thread 19204][tDBServer::Terminate] Thread (5828) KILLED / TERMINATED - Thread ID [5828]	User [maicon.macedo]	IO [423]	Tables [22]	MaxTables [23]	Comment []	SP [ ]	Traced [No]	SQLReplay [No]	InTran [No]	DBEnv [MSSQL/TOTVS_P1212310]	DBThread [(SPID 73,74)]	Started [21/02/2024 20:14:44]	IP [127.0.0.1:1290]	IDLE [69 s.]	InTransact [ ]	Memory [0]	Running []	RCV [8996]	SND [26290]	
+[20240221 20:15:55.110][Thread 19204]
+---------------- Global Memory Status -----------------------------------------
+Physical memory .    11940.73 Mb.   Used     6837.17 Mb.   Free     5103.56 Mb.
+Paging file .....    13732.73 Mb.   Used     7695.67 Mb.   Free     6037.06 Mb.
+Virtual memory .. 134217727.88 Mb.   Used     4260.08 Mb.   Free 134213467.80 Mb.
+-------------------------------------------------------------------------------
+
+---------------- Application Memory Status ------------------------------------
+Application Limit       UNDEFINED
+Work Memory .....       33.44 Mb.
+Paged Memory ....       35.31 Mb.
+-------------------------------------------------------------------------------
+
+
+--------------- Application Summary -------------------------------------------
+Total Connections ............: 26
+Active connections ...........: 3
+User connections .............: 0
+Maximum connections (Peak)....: 6
+Total Application Threads ....: 13
+Connection Status ............: ENABLED
+Current open tables ..........: 64
+Global Named Locks ...........: 145
+Connections in Procedure .....: 0
+Connections in Trace .........: 0
+Connections in SQLReplay .....: 0
+Connections in Transaction ...: 0
+
+-------------------------------------------------------------------------------
+
+[20240221 20:15:55.113][Thread 19204][INFO] [SHUTDOWN] Notifying shutdown to 8 thread(s)...
+[20240221 20:15:55.495][Thread 08232][tMonitorJob] End DBMonitor Active Thread.
+[20240221 20:15:55.995][Thread 03284]Exit TopClient Thread (3284) [TERMINATED] (IOs 1917 / RCV 51.52 Kb. / SND 824.08 Kb. ) 
+[20240221 20:15:55.999][Thread 16188]Exit TopClient Thread (16188) [TERMINATED] (IOs 204 / RCV 5.82 Kb. / SND 69.89 Kb. ) 
+[20240221 20:15:56.132][Thread 19204][INFO] [SHUTDOWN] Waiting end of 2 thread(s)...
+[20240221 20:15:56.604][Thread 05828]Exit TopClient Thread (5828) [TERMINATED] (IOs 426 / RCV 8.79 Kb. / SND 25.68 Kb. ) 
+[20240221 20:15:56.642][Thread 19204][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240221 20:15:57.145][Thread 19204][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240221 20:15:57.661][Thread 19204][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240221 20:15:58.176][Thread 19204][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240221 20:15:58.691][Thread 19204][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240221 20:15:59.207][Thread 19204][INFO] [SHUTDOWN] Waiting end of 1 thread(s)...
+[20240221 20:15:59.316][Thread 04676][tLockServerConn][STANDALONE] End LockConn Thread (4676) Location 8259 [TERMINATED] (IOs 42 / RCV 110 bytes. / SND 132 bytes. )
